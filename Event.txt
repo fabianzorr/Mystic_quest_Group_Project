@@ -1,0 +1,348 @@
+
+"id"=85
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=136
+
+
+
+"id"=33
+"event_name"="Battle of the Whispering Woods"
+"event_time"=280
+
+
+
+"id"=26
+"event_name"="Plague of the Dark Sands"
+"event_time"=308
+
+
+
+"id"=68
+"event_name"="Odyssey of the Stormcaller"
+"event_time"=123
+
+
+
+"id"=5
+"event_name"="Quest for the Lost Relics"
+"event_time"=886
+
+
+
+"id"=53
+"event_name"="Crusade of the Sun Chalice"
+"event_time"=105
+
+
+
+"id"=107
+"event_name"="Quest for the Lost Relics"
+"event_time"=47
+
+
+
+"id"=39
+"event_name"="The Reckoning of Lighthaven"
+"event_time"=326
+
+
+
+"id"=81
+"event_name"="Serpent's Ascension"
+"event_time"=670
+
+
+
+"id"=42
+"event_name"="Curse of the Phantom Queen"
+"event_time"=500
+
+
+
+"id"=94
+"event_name"="Dance of the Moonshadow"
+"event_time"=399
+
+
+
+"id"=82
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=425
+
+
+
+"id"=104
+"event_name"="Vault of the Fallen Stars"
+"event_time"=624
+
+
+
+"id"=22
+"event_name"="Corruption of the Sacred Grove"
+"event_time"=884
+
+
+
+"id"=79
+"event_name"="Invasion of the Frost Giants"
+"event_time"=821
+
+
+
+"id"=56
+"event_name"="Lost Horizon's Discovery"
+"event_time"=254
+
+
+
+"id"=95
+"event_name"="Slaying of the Ice Queen"
+"event_time"=707
+
+
+
+"id"=74
+"event_name"="Titan's Demise"
+"event_time"=727
+
+
+
+"id"=10
+"event_name"="The Reckoning of Lighthaven"
+"event_time"=225
+
+
+
+"id"=48
+"event_name"="The Reckoning of Lighthaven"
+"event_time"=770
+
+
+
+"id"=46
+"event_name"="Fall of the Shadow Titan"
+"event_time"=276
+
+
+
+"id"=103
+"event_name"="Timeless Enigma"
+"event_time"=364
+
+
+
+"id"=71
+"event_name"="Challenge of the Seven Seals"
+"event_time"=421
+
+
+
+"id"=51
+"event_name"="Festival of Golden Leaves"
+"event_time"=718
+
+
+
+"id"=43
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=171
+
+
+
+"id"=101
+"event_name"="The Harvest of Souls"
+"event_time"=250
+
+
+
+"id"=111
+"event_name"="Dance of the Moonshadow"
+"event_time"=151
+
+
+
+"id"=1
+"event_name"="Serpent's Ascension"
+"event_time"=237
+
+
+
+"id"=28
+"event_name"="Plague of the Dark Sands"
+"event_time"=150
+
+
+
+"id"=59
+"event_name"="Titan's Demise"
+"event_time"=107
+
+
+
+"id"=83
+"event_name"="The Gatekeeper's Fury"
+"event_time"=235
+
+
+
+"id"=62
+"event_name"="Wrath of the Earthmother"
+"event_time"=245
+
+
+
+"id"=20
+"event_name"="Dawn of the Void"
+"event_time"=57
+
+
+
+"id"=23
+"event_name"="The Golem's Lament"
+"event_time"=139
+
+
+
+"id"=13
+"event_name"="Odyssey of the Stormcaller"
+"event_time"=931
+
+
+
+"id"=70
+"event_name"="Crusade of the Sun Chalice"
+"event_time"=509
+
+
+
+"id"=31
+"event_name"="Corruption of the Sacred Grove"
+"event_time"=829
+
+
+
+"id"=16
+"event_name"="Chronicle of the Sealed Gods"
+"event_time"=753
+
+
+
+"id"=61
+"event_name"="Plague of the Dark Sands"
+"event_time"=780
+
+
+
+"id"=114
+"event_name"="The Harvest of Souls"
+"event_time"=411
+
+
+
+"id"=7
+"event_name"="Festival of the Eternal Spring"
+"event_time"=749
+
+
+
+"id"=36
+"event_name"="Timeless Enigma"
+"event_time"=259
+
+
+
+"id"=89
+"event_name"="Curse of the Phantom Queen"
+"event_time"=633
+
+
+
+"id"=4
+"event_name"="Vault of the Fallen Stars"
+"event_time"=613
+
+
+
+"id"=98
+"event_name"="Storm of the Dead"
+"event_time"=512
+
+
+
+"id"=115
+"event_name"="The Dragon's Awakening"
+"event_time"=713
+
+
+
+"id"=108
+"event_name"="Invasion of the Frost Giants"
+"event_time"=213
+
+
+
+"id"=18
+"event_name"="Raven's Eclipse"
+"event_time"=224
+
+
+
+"id"=6
+"event_name"="Assault on the Abyss"
+"event_time"=376
+
+
+
+"id"=50
+"event_name"="The Dragon's Awakening"
+"event_time"=179
+
+
+
+"id"=88
+"event_name"="Plague of the Dark Sands"
+"event_time"=253
+
+
+
+"id"=12
+"event_name"="The Celestial Convergence"
+"event_time"=468
+
+
+
+"id"=77
+"event_name"="The Gatekeeper's Fury"
+"event_time"=80
+
+
+
+"id"=40
+"event_name"="Chronicle of the Sealed Gods"
+"event_time"=482
+
+
+
+"id"=92
+"event_name"="Invasion of the Frost Giants"
+"event_time"=674
+
+
+
+"id"=66
+"event_name"="The Celestial Convergence"
+"event_time"=895
+
+
+
+"id"=63
+"event_name"="Escape from Shadow Hold"
+"event_time"=951
+
+
+
+"id"=90
+"event_name"="Feast of the Harvest Moon"
+"event_time"=654
+
+

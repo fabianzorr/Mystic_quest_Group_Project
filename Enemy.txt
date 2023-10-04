@@ -1,0 +1,872 @@
+
+"id"=87
+"enemy_name"="Fire Imp"
+"enemy_type"="Magical"
+"hitpoints"=487
+"warcry"="swefaucrey"
+
+
+
+"id"=137
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Beast"
+"hitpoints"=840
+"warcry"="uozwislofr"
+
+
+
+"id"=162
+"enemy_name"="Dire Pegasus"
+"enemy_type"="Elemental"
+"hitpoints"=109
+"warcry"="usfe"
+
+
+
+"id"=167
+"enemy_name"="Armored Basilisk"
+"enemy_type"="Undead"
+"hitpoints"=349
+"warcry"="nru"
+
+
+
+"id"=65
+"enemy_name"="Ethereal Banshee"
+"enemy_type"="Humanoid"
+"hitpoints"=748
+"warcry"="fvoj"
+
+
+
+"id"=194
+"enemy_name"="Swamp Leviathan"
+"enemy_type"="Undead"
+"hitpoints"=355
+"warcry"="mipraswi"
+
+
+
+"id"=20
+"enemy_name"="Royal Griffin"
+"enemy_type"="Beast"
+"hitpoints"=705
+"warcry"="truitra"
+
+
+
+"id"=75
+"enemy_name"="Demonic Harbinger"
+"enemy_type"="Demon"
+"hitpoints"=957
+"warcry"="nqidjalt"
+
+
+
+"id"=47
+"enemy_name"="Earthquake Worm"
+"enemy_type"="Construct"
+"hitpoints"=938
+"warcry"="flabloplo"
+
+
+
+"id"=70
+"enemy_name"="Death Reaper"
+"enemy_type"="Elemental"
+"hitpoints"=570
+"warcry"="blufr"
+
+
+
+"id"=97
+"enemy_name"="Banshee Queen"
+"enemy_type"="Elemental"
+"hitpoints"=57
+"warcry"="cloqti"
+
+
+
+"id"=85
+"enemy_name"="Chimera Matriarch"
+"enemy_type"="Beast"
+"hitpoints"=81
+"warcry"="snith"
+
+
+
+"id"=56
+"enemy_name"="Murderous Wendigo"
+"enemy_type"="Elemental"
+"hitpoints"=515
+"warcry"="yufw"
+
+
+
+"id"=102
+"enemy_name"="Forest Nymph"
+"enemy_type"="Beast"
+"hitpoints"=948
+"warcry"="ustiglabre"
+
+
+
+"id"=105
+"enemy_name"="Swamp Leviathan"
+"enemy_type"="Construct"
+"hitpoints"=881
+"warcry"="cuwozte"
+
+
+
+"id"=94
+"enemy_name"="Undead Pirate"
+"enemy_type"="Elemental"
+"hitpoints"=149
+"warcry"="fugleuyi"
+
+
+
+"id"=61
+"enemy_name"="Griffon King"
+"enemy_type"="Magical"
+"hitpoints"=726
+"warcry"="jeb"
+
+
+
+"id"=81
+"enemy_name"="Lunar Witch"
+"enemy_type"="Dragon"
+"hitpoints"=313
+"warcry"="jhio"
+
+
+
+"id"=209
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Magical"
+"hitpoints"=859
+"warcry"="slelichu"
+
+
+
+"id"=181
+"enemy_name"="Screeching Harpy"
+"enemy_type"="Humanoid"
+"hitpoints"=484
+"warcry"="iosleu"
+
+
+
+"id"=125
+"enemy_name"="Phantom Assassin"
+"enemy_type"="Humanoid"
+"hitpoints"=35
+"warcry"="avqiqt"
+
+
+
+"id"=84
+"enemy_name"="Clockwork Guardian"
+"enemy_type"="Magical"
+"hitpoints"=878
+"warcry"="iscehzule"
+
+
+
+"id"=145
+"enemy_name"="Plague Rat"
+"enemy_type"="Magical"
+"hitpoints"=507
+"warcry"="uisnooce"
+
+
+
+"id"=185
+"enemy_name"="Scourge Wight"
+"enemy_type"="Undead"
+"hitpoints"=483
+"warcry"="xzaascable"
+
+
+
+"id"=4
+"enemy_name"="Plague Rat"
+"enemy_type"="Elemental"
+"hitpoints"=263
+"warcry"="usluvwu"
+
+
+
+"id"=115
+"enemy_name"="Stone Sentinel"
+"enemy_type"="Construct"
+"hitpoints"=146
+"warcry"="kesmucla"
+
+
+
+"id"=50
+"enemy_name"="Mud Troll"
+"enemy_type"="Construct"
+"hitpoints"=640
+"warcry"="swaupria"
+
+
+
+"id"=86
+"enemy_name"="Radiant Valkyrie"
+"enemy_type"="Elemental"
+"hitpoints"=882
+"warcry"="grie"
+
+
+
+"id"=155
+"enemy_name"="Screeching Harpy"
+"enemy_type"="Humanoid"
+"hitpoints"=236
+"warcry"="ljaocru"
+
+
+
+"id"=24
+"enemy_name"="Ice Elemental"
+"enemy_type"="Humanoid"
+"hitpoints"=233
+"warcry"="pruj"
+
+
+
+"id"=225
+"enemy_name"="Wandering Yeti"
+"enemy_type"="Beast"
+"hitpoints"=695
+"warcry"="cwaek"
+
+
+
+"id"=14
+"enemy_name"="Dire Pegasus"
+"enemy_type"="Beast"
+"hitpoints"=19
+"warcry"="bvuoq"
+
+
+
+"id"=38
+"enemy_name"="Magma Serpent"
+"enemy_type"="Humanoid"
+"hitpoints"=689
+"warcry"="skoisk"
+
+
+
+"id"=3
+"enemy_name"="Griffon King"
+"enemy_type"="Magical"
+"hitpoints"=924
+"warcry"="elu"
+
+
+
+"id"=119
+"enemy_name"="Ethereal Banshee"
+"enemy_type"="Beast"
+"hitpoints"=562
+"warcry"="flousne"
+
+
+
+"id"=207
+"enemy_name"="Alpha Wolf"
+"enemy_type"="Giant"
+"hitpoints"=725
+"warcry"="youclaor"
+
+
+
+"id"=178
+"enemy_name"="Vampire Lord"
+"enemy_type"="Humanoid"
+"hitpoints"=902
+"warcry"="tkegruusmo"
+
+
+
+"id"=150
+"enemy_name"="Venomous Serpent"
+"enemy_type"="Beast"
+"hitpoints"=153
+"warcry"="hberyit"
+
+
+
+"id"=168
+"enemy_name"="Sand Elemental"
+"enemy_type"="Giant"
+"hitpoints"=77
+"warcry"="ebridree"
+
+
+
+"id"=8
+"enemy_name"="Dreaded Chimera"
+"enemy_type"="Undead"
+"hitpoints"=424
+"warcry"="zaicr"
+
+
+
+"id"=103
+"enemy_name"="Chaos Demon"
+"enemy_type"="Giant"
+"hitpoints"=251
+"warcry"="rayz"
+
+
+
+"id"=130
+"enemy_name"="Crimson Rogue"
+"enemy_type"="Elemental"
+"hitpoints"=678
+"warcry"="spascin"
+
+
+
+"id"=142
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Magical"
+"hitpoints"=444
+"warcry"="qgosni"
+
+
+
+"id"=172
+"enemy_name"="Cybernetic Scorpion"
+"enemy_type"="Beast"
+"hitpoints"=347
+"warcry"="xpogbe"
+
+
+
+"id"=122
+"enemy_name"="Plague Rat"
+"enemy_type"="Magical"
+"hitpoints"=275
+"warcry"="oidraj"
+
+
+
+"id"=148
+"enemy_name"="Armored Demon"
+"enemy_type"="Demon"
+"hitpoints"=384
+"warcry"="briibr"
+
+
+
+"id"=23
+"enemy_name"="Enraged Cyclops"
+"enemy_type"="Humanoid"
+"hitpoints"=539
+"warcry"="gcays"
+
+
+
+"id"=11
+"enemy_name"="Screeching Harpy"
+"enemy_type"="Humanoid"
+"hitpoints"=867
+"warcry"="creib"
+
+
+
+"id"=64
+"enemy_name"="Harpy Scream"
+"enemy_type"="Magical"
+"hitpoints"=458
+"warcry"="gobrisk"
+
+
+
+"id"=132
+"enemy_name"="Dark Sorcerer"
+"enemy_type"="Magical"
+"hitpoints"=80
+"warcry"="iuheu"
+
+
+
+"id"=135
+"enemy_name"="Demonic Harbinger"
+"enemy_type"="Beast"
+"hitpoints"=757
+"warcry"="pfafguski"
+
+
+
+"id"=217
+"enemy_name"="Magma Serpent"
+"enemy_type"="Beast"
+"hitpoints"=155
+"warcry"="iprunp"
+
+
+
+"id"=42
+"enemy_name"="Corrupted Angel"
+"enemy_type"="Magical"
+"hitpoints"=148
+"warcry"="ool"
+
+
+
+"id"=223
+"enemy_name"="Frostbite Scorpion"
+"enemy_type"="Undead"
+"hitpoints"=959
+"warcry"="aruon"
+
+
+
+"id"=157
+"enemy_name"="Armored Centaur"
+"enemy_type"="Construct"
+"hitpoints"=822
+"warcry"="exv"
+
+
+
+"id"=49
+"enemy_name"="Corrupted Alchemist"
+"enemy_type"="Humanoid"
+"hitpoints"=686
+"warcry"="aapliag"
+
+
+
+"id"=59
+"enemy_name"="Water Elemental"
+"enemy_type"="Undead"
+"hitpoints"=341
+"warcry"="iscuasceuk"
+
+
+
+"id"=175
+"enemy_name"="Spectral Warden"
+"enemy_type"="Brute"
+"hitpoints"=190
+"warcry"="skat"
+
+
+
+"id"=128
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Beast"
+"hitpoints"=319
+"warcry"="prixru"
+
+
+
+"id"=89
+"enemy_name"="Dire Bat"
+"enemy_type"="Undead"
+"hitpoints"=487
+"warcry"="qiascicu"
+
+
+
+"id"=211
+"enemy_name"="Unholy Death Knight"
+"enemy_type"="Giant"
+"hitpoints"=398
+"warcry"="skihofl"
+
+
+
+"id"=205
+"enemy_name"="Death Reaper"
+"enemy_type"="Giant"
+"hitpoints"=490
+"warcry"="udvoevb"
+
+
+
+"id"=180
+"enemy_name"="Harpy Scream"
+"enemy_type"="Humanoid"
+"hitpoints"=828
+"warcry"="toeksi"
+
+
+
+"id"=68
+"enemy_name"="Time-Weaver"
+"enemy_type"="Elemental"
+"hitpoints"=299
+"warcry"="uasw"
+
+
+
+"id"=116
+"enemy_name"="Royal Griffin"
+"enemy_type"="Swarm"
+"hitpoints"=534
+"warcry"="preebrei"
+
+
+
+"id"=203
+"enemy_name"="Lunar Moth"
+"enemy_type"="Beast"
+"hitpoints"=588
+"warcry"="trutro"
+
+
+
+"id"=108
+"enemy_name"="Searing Efreet"
+"enemy_type"="Dragon"
+"hitpoints"=143
+"warcry"="exjobro"
+
+
+
+"id"=16
+"enemy_name"="Frost Giant"
+"enemy_type"="Humanoid"
+"hitpoints"=484
+"warcry"="bluqra"
+
+
+
+"id"=170
+"enemy_name"="Night Stalker"
+"enemy_type"="Magical"
+"hitpoints"=763
+"warcry"="criy"
+
+
+
+"id"=200
+"enemy_name"="Lunar Moth"
+"enemy_type"="Brute"
+"hitpoints"=362
+"warcry"="sqisriplo"
+
+
+
+"id"=134
+"enemy_name"="Crystal Dragon"
+"enemy_type"="Demon"
+"hitpoints"=755
+"warcry"="plafla"
+
+
+
+"id"=216
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Humanoid"
+"hitpoints"=938
+"warcry"="zvicqij"
+
+
+
+"id"=26
+"enemy_name"="Black Widow"
+"enemy_type"="Beast"
+"hitpoints"=180
+"warcry"="hce"
+
+
+
+"id"=106
+"enemy_name"="Spectral Knight"
+"enemy_type"="Flora"
+"hitpoints"=552
+"warcry"="braij"
+
+
+
+"id"=33
+"enemy_name"="Scourge Wight"
+"enemy_type"="Undead"
+"hitpoints"=989
+"warcry"="prucka"
+
+
+
+"id"=214
+"enemy_name"="Scourge Wight"
+"enemy_type"="Swarm"
+"hitpoints"=924
+"warcry"="brormoxk"
+
+
+
+"id"=88
+"enemy_name"="Undead Pirate"
+"enemy_type"="Swarm"
+"hitpoints"=268
+"warcry"="uhihofra"
+
+
+
+"id"=7
+"enemy_name"="Flamekeeper Elemental"
+"enemy_type"="Magical"
+"hitpoints"=35
+"warcry"="dvesweg"
+
+
+
+"id"=93
+"enemy_name"="Cursed Samurai"
+"enemy_type"="Beast"
+"hitpoints"=808
+"warcry"="kdosl"
+
+
+
+"id"=140
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Magical"
+"hitpoints"=48
+"warcry"="wuikdugr"
+
+
+
+"id"=57
+"enemy_name"="Lightning Jinn"
+"enemy_type"="Dragon"
+"hitpoints"=795
+"warcry"="sbisni"
+
+
+
+"id"=30
+"enemy_name"="Armored Centaur"
+"enemy_type"="Humanoid"
+"hitpoints"=785
+"warcry"="swuoflua"
+
+
+
+"id"=183
+"enemy_name"="Cursed Samurai"
+"enemy_type"="Humanoid"
+"hitpoints"=823
+"warcry"="flouda"
+
+
+
+"id"=72
+"enemy_name"="Spectral Knight"
+"enemy_type"="Flora"
+"hitpoints"=719
+"warcry"="craugvagl"
+
+
+
+"id"=28
+"enemy_name"="Haunted Marionette"
+"enemy_type"="Construct"
+"hitpoints"=789
+"warcry"="yuosw"
+
+
+
+"id"=54
+"enemy_name"="Spectral Warden"
+"enemy_type"="Undead"
+"hitpoints"=693
+"warcry"="stont"
+
+
+
+"id"=39
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Demon"
+"hitpoints"=479
+"warcry"="aglu"
+
+
+
+"id"=18
+"enemy_name"="Golden Gryphon"
+"enemy_type"="Beast"
+"hitpoints"=360
+"warcry"="rpuoblanw"
+
+
+
+"id"=160
+"enemy_name"="Unholy Death Knight"
+"enemy_type"="Beast"
+"hitpoints"=385
+"warcry"="amso"
+
+
+
+"id"=220
+"enemy_name"="Haunted Marionette"
+"enemy_type"="Swarm"
+"hitpoints"=452
+"warcry"="oxest"
+
+
+
+"id"=29
+"enemy_name"="Magma Serpent"
+"enemy_type"="Beast"
+"hitpoints"=867
+"warcry"="snupledropr"
+
+
+
+"id"=189
+"enemy_name"="Forest Spirit"
+"enemy_type"="Swarm"
+"hitpoints"=990
+"warcry"="oslai"
+
+
+
+"id"=152
+"enemy_name"="Infernal Incubus"
+"enemy_type"="Brute"
+"hitpoints"=532
+"warcry"="skismay"
+
+
+
+"id"=77
+"enemy_name"="Death Reaper"
+"enemy_type"="Undead"
+"hitpoints"=92
+"warcry"="claplaspuj"
+
+
+
+"id"=36
+"enemy_name"="Blazing Phoenix"
+"enemy_type"="Elemental"
+"hitpoints"=979
+"warcry"="snuosno"
+
+
+
+"id"=52
+"enemy_name"="Forest Nymph"
+"enemy_type"="Elemental"
+"hitpoints"=412
+"warcry"="snocs"
+
+
+
+"id"=191
+"enemy_name"="Phantom Banshee"
+"enemy_type"="Humanoid"
+"hitpoints"=274
+"warcry"="nvuflou"
+
+
+
+"id"=197
+"enemy_name"="Silverback Gorilla"
+"enemy_type"="Magical"
+"hitpoints"=146
+"warcry"="fruudwao"
+
+
+
+"id"=182
+"enemy_name"="Vampire Lord"
+"enemy_type"="Undead"
+"hitpoints"=62
+"warcry"="glanhawwu"
+
+
+
+"id"=208
+"enemy_name"="Spectral Warden"
+"enemy_type"="Elemental"
+"hitpoints"=159
+"warcry"="blaflusn"
+
+
+
+"id"=99
+"enemy_name"="Chained Spirit"
+"enemy_type"="Beast"
+"hitpoints"=937
+"warcry"="afrod"
+
+
+
+"id"=188
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Humanoid"
+"hitpoints"=45
+"warcry"="fhi"
+
+
+
+"id"=112
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Undead"
+"hitpoints"=227
+"warcry"="etya"
+
+
+
+"id"=44
+"enemy_name"="Thunder Drake"
+"enemy_type"="Undead"
+"hitpoints"=772
+"warcry"="ucsimgosm"
+
+
+
+"id"=92
+"enemy_name"="Thunder Drake"
+"enemy_type"="Magical"
+"hitpoints"=232
+"warcry"="hdo"
+
+
+
+"id"=164
+"enemy_name"="Cave Spider"
+"enemy_type"="Demon"
+"hitpoints"=608
+"warcry"="gluoybo"
+
+
+
+"id"=79
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Undead"
+"hitpoints"=534
+"warcry"="brio"
+
+
+
+"id"=109
+"enemy_name"="Undead Pirate"
+"enemy_type"="Swarm"
+"hitpoints"=741
+"warcry"="swosnaefla"
+
+
+
+"id"=177
+"enemy_name"="Frostbite Scorpion"
+"enemy_type"="Construct"
+"hitpoints"=214
+"warcry"="dmiglusnuu"
+
+
