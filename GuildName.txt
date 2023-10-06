@@ -1,1755 +1,1692 @@
 
-"id"=256
-"name"="Heralds of Hope"
-"description"="Healing"
-"leader"="Jadefang"
-"members"=169
-"founded_year"=263
+"id"=136
+"name"="Circle of Druids"
+"description"="Exploration"
+"leader"="Valdrick"
+"members"=493
+"founded_year"=586
 
 
 
-"id"=132
-"name"="Emerald Enchanters"
+"id"=365
+"name"="Crypt Crawlers"
 "description"="PvP"
+"leader"="Vyktor"
+"members"=847
+"founded_year"=677
+
+
+
+"id"=234
+"name"="Storm Riders"
+"description"="Healing"
+"leader"="Isolde"
+"members"=695
+"founded_year"=630
+
+
+
+"id"=104
+"name"="Heralds of Hope"
+"description"="Knowledge"
+"leader"="Delgath"
+"members"=97
+"founded_year"=405
+
+
+
+"id"=345
+"name"="Wizards of the Coast"
+"description"="Questing"
+"leader"="Zyralor"
+"members"=210
+"founded_year"=115
+
+
+
+"id"=361
+"name"="Frostbite Clan"
+"description"="Mage Training"
+"leader"="Elandria"
+"members"=735
+"founded_year"=119
+
+
+
+"id"=275
+"name"="The Righteous"
+"description"="Exploration"
+"leader"="Valeria"
+"members"=218
+"founded_year"=584
+
+
+
+"id"=53
+"name"="Wizards of the Coast"
+"description"="Questing"
+"leader"="Zandalar"
+"members"=72
+"founded_year"=402
+
+
+
+"id"=337
+"name"="Frostbite Clan"
+"description"="Trading"
+"leader"="Naelor"
+"members"=391
+"founded_year"=832
+
+
+
+"id"=98
+"name"="Circle of Druids"
+"description"="PvP"
+"leader"="Aerendir"
+"members"=873
+"founded_year"=625
+
+
+
+"id"=285
+"name"="Abyss Watchers"
+"description"="Crafting"
+"leader"="Nymriel"
+"members"=284
+"founded_year"=215
+
+
+
+"id"=366
+"name"="Gold Brokers"
+"description"="Knowledge"
+"leader"="Kyrion"
+"members"=438
+"founded_year"=205
+
+
+
+"id"=91
+"name"="Heart of Courage"
+"description"="PvP"
+"leader"="Keldra"
+"members"=237
+"founded_year"=906
+
+
+
+"id"=303
+"name"="Nature's Whisper"
+"description"="Trading"
+"leader"="Lythra"
+"members"=531
+"founded_year"=758
+
+
+
+"id"=211
+"name"="Gold Brokers"
+"description"="Mage Training"
+"leader"="Sarthon"
+"members"=42
+"founded_year"=202
+
+
+
+"id"=25
+"name"="Heralds of Hope"
+"description"="Exploration"
+"leader"="Drakan"
+"members"=689
+"founded_year"=185
+
+
+
+"id"=282
+"name"="Wisdom Weavers"
+"description"="Knowledge"
+"leader"="Aethor"
+"members"=600
+"founded_year"=51
+
+
+
+"id"=246
+"name"="Prophets of Doom"
+"description"="Knowledge"
+"leader"="Thorgal"
+"members"=536
+"founded_year"=140
+
+
+
+"id"=28
+"name"="Heralds of Hope"
+"description"="Questing"
+"leader"="Runorin"
+"members"=266
+"founded_year"=114
+
+
+
+"id"=33
+"name"="Heralds of Hope"
+"description"="Mage Training"
+"leader"="Sarthon"
+"members"=405
+"founded_year"=25
+
+
+
+"id"=12
+"name"="Spirit Guardians"
+"description"="Questing"
+"leader"="Xaradra"
+"members"=327
+"founded_year"=294
+
+
+
+"id"=114
+"name"="Artisans of Alchemy"
+"description"="Crafting"
+"leader"="Zephyra"
+"members"=705
+"founded_year"=105
+
+
+
+"id"=13
+"name"="Seekers of Truth"
+"description"="Healing"
+"leader"="Valyndra"
+"members"=482
+"founded_year"=173
+
+
+
+"id"=317
+"name"="The Wanderers"
+"description"="Crafting"
+"leader"="Aerendir"
+"members"=983
+"founded_year"=604
+
+
+
+"id"=327
+"name"="Spirit Guardians"
+"description"="Exploration"
+"leader"="Jadefang"
+"members"=691
+"founded_year"=689
+
+
+
+"id"=294
+"name"="The Forsaken"
+"description"="Trading"
+"leader"="Elidora"
+"members"=964
+"founded_year"=292
+
+
+
+"id"=10
+"name"="Emerald Enchanters"
+"description"="Crafting"
+"leader"="Ulfrik"
+"members"=434
+"founded_year"=693
+
+
+
+"id"=174
+"name"="Wisdom Weavers"
+"description"="Crafting"
+"leader"="Jadefang"
+"members"=539
+"founded_year"=228
+
+
+
+"id"=208
+"name"="Elixir Masters"
+"description"="Exploration"
+"leader"="Gwynara"
+"members"=488
+"founded_year"=361
+
+
+
+"id"=170
+"name"="Heart of Courage"
+"description"="Mage Training"
+"leader"="Serafelle"
+"members"=441
+"founded_year"=349
+
+
+
+"id"=310
+"name"="Moonlit Mystics"
+"description"="Crafting"
+"leader"="Sarthon"
+"members"=759
+"founded_year"=398
+
+
+
+"id"=297
+"name"="Storm Riders"
+"description"="Trading"
+"leader"="Caelthor"
+"members"=210
+"founded_year"=762
+
+
+
+"id"=178
+"name"="The Wanderers"
+"description"="Knowledge"
+"leader"="Tyrndar"
+"members"=486
+"founded_year"=418
+
+
+
+"id"=139
+"name"="Knights of Valor"
+"description"="Crafting"
+"leader"="Morwyn"
+"members"=69
+"founded_year"=360
+
+
+
+"id"=207
+"name"="Emerald Enchanters"
+"description"="Questing"
 "leader"="Raelthorn"
-"members"=58
-"founded_year"=730
+"members"=435
+"founded_year"=769
 
 
 
-"id"=134
+"id"=2
+"name"="Heralds of Hope"
+"description"="Exploration"
+"leader"="Illinor"
+"members"=345
+"founded_year"=521
+
+
+
+"id"=61
+"name"="Circle of Druids"
+"description"="Questing"
+"leader"="Aethor"
+"members"=46
+"founded_year"=172
+
+
+
+"id"=314
+"name"="The Forsaken"
+"description"="Mage Training"
+"leader"="Qelthar"
+"members"=219
+"founded_year"=2
+
+
+
+"id"=228
+"name"="Merchant Princes"
+"description"="Knowledge"
+"leader"="Goromir"
+"members"=984
+"founded_year"=834
+
+
+
+"id"=343
+"name"="Merchant Princes"
+"description"="Questing"
+"leader"="Veylan"
+"members"=923
+"founded_year"=549
+
+
+
+"id"=311
+"name"="Heroes of Harmony"
+"description"="Trading"
+"leader"="Kyrion"
+"members"=97
+"founded_year"=254
+
+
+
+"id"=79
+"name"="Heroes of Harmony"
+"description"="PvP"
+"leader"="Naelor"
+"members"=208
+"founded_year"=689
+
+
+
+"id"=30
+"name"="Gold Brokers"
+"description"="Questing"
+"leader"="Oromis"
+"members"=663
+"founded_year"=438
+
+
+
+"id"=90
+"name"="Gold Brokers"
+"description"="Healing"
+"leader"="Thaldor"
+"members"=938
+"founded_year"=343
+
+
+
+"id"=151
+"name"="Knights of Valor"
+"description"="Crafting"
+"leader"="Toraell"
+"members"=918
+"founded_year"=151
+
+
+
+"id"=325
+"name"="Dragon Slayers"
+"description"="Questing"
+"leader"="Aryndis"
+"members"=903
+"founded_year"=939
+
+
+
+"id"=172
+"name"="Merchant Princes"
+"description"="Mage Training"
+"leader"="Toraell"
+"members"=488
+"founded_year"=850
+
+
+
+"id"=300
+"name"="The Undying"
+"description"="Healing"
+"leader"="Valyndra"
+"members"=935
+"founded_year"=515
+
+
+
+"id"=227
+"name"="Storm Riders"
+"description"="PvP"
+"leader"="Thorgrim"
+"members"=678
+"founded_year"=833
+
+
+
+"id"=130
+"name"="Knights of Valor"
+"description"="Trading"
+"leader"="Zyralor"
+"members"=573
+"founded_year"=934
+
+
+
+"id"=240
+"name"="Knights of Valor"
+"description"="Questing"
+"leader"="Sarthon"
+"members"=338
+"founded_year"=665
+
+
+
+"id"=205
+"name"="Guardians of Light"
+"description"="Questing"
+"leader"="Oberion"
+"members"=669
+"founded_year"=731
+
+
+
+"id"=42
+"name"="Defenders of Destiny"
+"description"="Spying"
+"leader"="Nymriel"
+"members"=291
+"founded_year"=562
+
+
+
+"id"=320
+"name"="Artisans of Alchemy"
+"description"="Trading"
+"leader"="Ulfrik"
+"members"=969
+"founded_year"=699
+
+
+
+"id"=332
+"name"="Sun Warriors"
+"description"="Questing"
+"leader"="Zyralor"
+"members"=769
+"founded_year"=69
+
+
+
+"id"=196
+"name"="Dusk to Dawn"
+"description"="Spying"
+"leader"="Daelis"
+"members"=972
+"founded_year"=422
+
+
+
+"id"=268
+"name"="Elemental Lords"
+"description"="Questing"
+"leader"="Thaelis"
+"members"=842
+"founded_year"=924
+
+
+
+"id"=65
 "name"="Ocean's Children"
+"description"="Exploration"
+"leader"="Lythra"
+"members"=581
+"founded_year"=992
+
+
+
+"id"=153
+"name"="Prophets of Doom"
+"description"="Mage Training"
+"leader"="Aralyn"
+"members"=260
+"founded_year"=383
+
+
+
+"id"=323
+"name"="The Forsaken"
+"description"="Trading"
+"leader"="Vyktor"
+"members"=926
+"founded_year"=300
+
+
+
+"id"=259
+"name"="Frostbite Clan"
+"description"="Healing"
+"leader"="Goromir"
+"members"=695
+"founded_year"=611
+
+
+
+"id"=52
+"name"="Council of Elders"
+"description"="Spying"
+"leader"="Valyndra"
+"members"=646
+"founded_year"=781
+
+
+
+"id"=161
+"name"="Guardians of Light"
+"description"="Questing"
+"leader"="Gwynara"
+"members"=130
+"founded_year"=920
+
+
+
+"id"=328
+"name"="Heralds of Hope"
 "description"="Trading"
 "leader"="Goromir"
-"members"=54
-"founded_year"=351
+"members"=313
+"founded_year"=876
 
 
 
-"id"=169
-"name"="Shadow Society"
+"id"=350
+"name"="The Wanderers"
 "description"="PvP"
-"leader"="Belthorn"
-"members"=890
-"founded_year"=599
+"leader"="Veylan"
+"members"=202
+"founded_year"=919
 
 
 
-"id"=191
-"name"="Ocean's Children"
+"id"=67
+"name"="Knights of Valor"
+"description"="PvP"
+"leader"="Veyla"
+"members"=527
+"founded_year"=482
+
+
+
+"id"=319
+"name"="Seekers of Truth"
+"description"="Spying"
+"leader"="Goromir"
+"members"=979
+"founded_year"=899
+
+
+
+"id"=330
+"name"="Dragon Slayers"
+"description"="Questing"
+"leader"="Xaradra"
+"members"=653
+"founded_year"=167
+
+
+
+"id"=140
+"name"="The Undying"
+"description"="Healing"
+"leader"="Delgath"
+"members"=190
+"founded_year"=780
+
+
+
+"id"=3
+"name"="Circle of Druids"
+"description"="Mage Training"
+"leader"="Thorgrim"
+"members"=869
+"founded_year"=707
+
+
+
+"id"=348
+"name"="Mercenaries of Fortune"
 "description"="Trading"
-"leader"="Saphyra"
-"members"=434
-"founded_year"=588
+"leader"="Aryndis"
+"members"=303
+"founded_year"=233
 
 
 
-"id"=26
-"name"="The Silent Footsteps"
+"id"=69
+"name"="Guardians of Light"
+"description"="Exploration"
+"leader"="Serafelle"
+"members"=793
+"founded_year"=521
+
+
+
+"id"=45
+"name"="Nature's Whisper"
+"description"="Healing"
+"leader"="Raelis"
+"members"=409
+"founded_year"=236
+
+
+
+"id"=159
+"name"="Knights of Valor"
+"description"="Questing"
+"leader"="Endora"
+"members"=390
+"founded_year"=985
+
+
+
+"id"=200
+"name"="Prophets of Doom"
+"description"="Healing"
+"leader"="Thaldor"
+"members"=221
+"founded_year"=104
+
+
+
+"id"=217
+"name"="Gold Brokers"
+"description"="Crafting"
+"leader"="Aethor"
+"members"=399
+"founded_year"=858
+
+
+
+"id"=198
+"name"="Frostbite Clan"
+"description"="Knowledge"
+"leader"="Elandria"
+"members"=29
+"founded_year"=781
+
+
+
+"id"=20
+"name"="Circle of Druids"
+"description"="PvP"
+"leader"="Caelthor"
+"members"=914
+"founded_year"=70
+
+
+
+"id"=143
+"name"="Spirit Guardians"
+"description"="Knowledge"
+"leader"="Vyktor"
+"members"=463
+"founded_year"=881
+
+
+
+"id"=309
+"name"="Guardians of Light"
+"description"="Mage Training"
+"leader"="Raelthorn"
+"members"=860
+"founded_year"=317
+
+
+
+"id"=63
+"name"="The Forsaken"
+"description"="Exploration"
+"leader"="Raelan"
+"members"=448
+"founded_year"=685
+
+
+
+"id"=192
+"name"="Sun Warriors"
+"description"="Questing"
+"leader"="Thaelen"
+"members"=247
+"founded_year"=355
+
+
+
+"id"=48
+"name"="Emerald Enchanters"
+"description"="PvP"
+"leader"="Xyra"
+"members"=420
+"founded_year"=628
+
+
+
+"id"=15
+"name"="Mercenaries of Fortune"
+"description"="Healing"
+"leader"="Raelis"
+"members"=416
+"founded_year"=424
+
+
+
+"id"=364
+"name"="Heroes of Harmony"
+"description"="Questing"
+"leader"="Valthor"
+"members"=581
+"founded_year"=91
+
+
+
+"id"=373
+"name"="Thieves of Time"
+"description"="Mage Training"
+"leader"="Aerendir"
+"members"=476
+"founded_year"=481
+
+
+
+"id"=36
+"name"="Moonlit Mystics"
+"description"="Healing"
+"leader"="Valthor"
+"members"=161
+"founded_year"=657
+
+
+
+"id"=288
+"name"="Council of Elders"
+"description"="PvP"
+"leader"="Toraell"
+"members"=409
+"founded_year"=879
+
+
+
+"id"=167
+"name"="The Forsaken"
+"description"="Crafting"
+"leader"="Elandria"
+"members"=929
+"founded_year"=943
+
+
+
+"id"=87
+"name"="Heralds of Hope"
+"description"="Trading"
+"leader"="Valeria"
+"members"=595
+"founded_year"=566
+
+
+
+"id"=244
+"name"="Moonlit Mystics"
+"description"="Questing"
+"leader"="Veyla"
+"members"=990
+"founded_year"=250
+
+
+
+"id"=340
+"name"="Frostbite Clan"
 "description"="Spying"
 "leader"="Jadefang"
-"members"=217
-"founded_year"=415
+"members"=224
+"founded_year"=247
 
 
 
-"id"=281
+"id"=352
+"name"="Defenders of Destiny"
+"description"="Questing"
+"leader"="Veylan"
+"members"=825
+"founded_year"=750
+
+
+
+"id"=243
+"name"="Frostbite Clan"
+"description"="Spying"
+"leader"="Gorgrim"
+"members"=261
+"founded_year"=821
+
+
+
+"id"=222
+"name"="Elixir Masters"
+"description"="Knowledge"
+"leader"="Zaela"
+"members"=383
+"founded_year"=150
+
+
+
+"id"=252
+"name"="Knights of Valor"
+"description"="Spying"
+"leader"="Valthor"
+"members"=924
+"founded_year"=780
+
+
+
+"id"=353
+"name"="Desert Nomads"
+"description"="Knowledge"
+"leader"="Zyralor"
+"members"=962
+"founded_year"=691
+
+
+
+"id"=54
+"name"="Circle of Druids"
+"description"="Mage Training"
+"leader"="Orin"
+"members"=71
+"founded_year"=492
+
+
+
+"id"=370
+"name"="Defenders of Destiny"
+"description"="Mage Training"
+"leader"="Thorgal"
+"members"=121
+"founded_year"=149
+
+
+
+"id"=263
+"name"="Sun Warriors"
+"description"="Crafting"
+"leader"="Valeria"
+"members"=942
+"founded_year"=177
+
+
+
+"id"=18
+"name"="Guardians of Light"
+"description"="Mage Training"
+"leader"="Quorlinn"
+"members"=459
+"founded_year"=621
+
+
+
+"id"=269
+"name"="Defenders of Destiny"
+"description"="Trading"
+"leader"="Zephyra"
+"members"=463
+"founded_year"=150
+
+
+
+"id"=226
+"name"="Mercenaries of Fortune"
+"description"="Mage Training"
+"leader"="Thorgal"
+"members"=713
+"founded_year"=979
+
+
+
+"id"=298
+"name"="Knights of Valor"
+"description"="Exploration"
+"leader"="Oberion"
+"members"=191
+"founded_year"=24
+
+
+
+"id"=256
+"name"="Knights of Valor"
+"description"="Healing"
+"leader"="Lythor"
+"members"=132
+"founded_year"=946
+
+
+
+"id"=39
+"name"="Mind Over Matter"
+"description"="Mage Training"
+"leader"="Lythor"
+"members"=888
+"founded_year"=688
+
+
+
+"id"=194
+"name"="Defenders of Destiny"
+"description"="Mage Training"
+"leader"="Zandalar"
+"members"=274
+"founded_year"=745
+
+
+
+"id"=43
+"name"="The Forsaken"
+"description"="Knowledge"
+"leader"="Zandalar"
+"members"=374
+"founded_year"=407
+
+
+
+"id"=203
+"name"="Seekers of Truth"
+"description"="Trading"
+"leader"="Valdrick"
+"members"=76
+"founded_year"=690
+
+
+
+"id"=231
+"name"="Guardians of Light"
+"description"="Crafting"
+"leader"="Morwyn"
+"members"=266
+"founded_year"=199
+
+
+
+"id"=253
+"name"="Archmage Assembly"
+"description"="Spying"
+"leader"="Thundara"
+"members"=439
+"founded_year"=18
+
+
+
+"id"=123
 "name"="Silver Lances"
 "description"="Questing"
-"leader"="Orik"
-"members"=803
-"founded_year"=496
+"leader"="Runorin"
+"members"=399
+"founded_year"=486
+
+
+
+"id"=225
+"name"="Spirit Guardians"
+"description"="Knowledge"
+"leader"="Jadefang"
+"members"=737
+"founded_year"=332
+
+
+
+"id"=89
+"name"="Seekers of Truth"
+"description"="Questing"
+"leader"="Lythra"
+"members"=226
+"founded_year"=847
+
+
+
+"id"=306
+"name"="Guardians of Light"
+"description"="Questing"
+"leader"="Illinor"
+"members"=136
+"founded_year"=534
+
+
+
+"id"=237
+"name"="Dragon Slayers"
+"description"="Crafting"
+"leader"="Jadefang"
+"members"=347
+"founded_year"=764
+
+
+
+"id"=135
+"name"="The Silent Footsteps"
+"description"="Mage Training"
+"leader"="Thorgal"
+"members"=569
+"founded_year"=676
+
+
+
+"id"=302
+"name"="Spirit Guardians"
+"description"="Questing"
+"leader"="Elidora"
+"members"=392
+"founded_year"=195
+
+
+
+"id"=96
+"name"="Silver Lances"
+"description"="PvP"
+"leader"="Raelthorn"
+"members"=499
+"founded_year"=110
+
+
+
+"id"=274
+"name"="Defenders of Destiny"
+"description"="Crafting"
+"leader"="Orifel"
+"members"=426
+"founded_year"=840
+
+
+
+"id"=171
+"name"="Prophets of Doom"
+"description"="Exploration"
+"leader"="Daelis"
+"members"=208
+"founded_year"=991
+
+
+
+"id"=331
+"name"="Nature's Whisper"
+"description"="Trading"
+"leader"="Daelis"
+"members"=371
+"founded_year"=856
+
+
+
+"id"=59
+"name"="Artisans of Alchemy"
+"description"="Knowledge"
+"leader"="Caelthor"
+"members"=498
+"founded_year"=924
+
+
+
+"id"=57
+"name"="The Forsaken"
+"description"="PvP"
+"leader"="Zandalar"
+"members"=582
+"founded_year"=333
+
+
+
+"id"=112
+"name"="Ocean's Children"
+"description"="Healing"
+"leader"="Gilean"
+"members"=575
+"founded_year"=422
+
+
+
+"id"=72
+"name"="The Righteous"
+"description"="Exploration"
+"leader"="Orifel"
+"members"=443
+"founded_year"=468
+
+
+
+"id"=1
+"name"="Moonlit Mystics"
+"description"="Trading"
+"leader"="Morwyn"
+"members"=755
+"founded_year"=955
+
+
+
+"id"=4
+"name"="Starborn Seekers"
+"description"="Exploration"
+"leader"="Selendis"
+"members"=289
+"founded_year"=518
+
+
+
+"id"=335
+"name"="Heralds of Hope"
+"description"="Mage Training"
+"leader"="Isolde"
+"members"=179
+"founded_year"=813
+
+
+
+"id"=206
+"name"="Abyss Watchers"
+"description"="Spying"
+"leader"="Runorin"
+"members"=128
+"founded_year"=585
+
+
+
+"id"=278
+"name"="Hands of Fate"
+"description"="Healing"
+"leader"="Xyphera"
+"members"=480
+"founded_year"=828
+
+
+
+"id"=272
+"name"="Seekers of Truth"
+"description"="Questing"
+"leader"="Oromis"
+"members"=320
+"founded_year"=470
+
+
+
+"id"=149
+"name"="The Silent Footsteps"
+"description"="Trading"
+"leader"="Loralei"
+"members"=772
+"founded_year"=637
+
+
+
+"id"=162
+"name"="Circle of Druids"
+"description"="Crafting"
+"leader"="Nymriel"
+"members"=677
+"founded_year"=556
+
+
+
+"id"=107
+"name"="Hands of Fate"
+"description"="Exploration"
+"leader"="Solandria"
+"members"=297
+"founded_year"=256
+
+
+
+"id"=71
+"name"="Council of Elders"
+"description"="Exploration"
+"leader"="Toraell"
+"members"=350
+"founded_year"=494
+
+
+
+"id"=133
+"name"="Heart of Courage"
+"description"="Mage Training"
+"leader"="Ashara"
+"members"=808
+"founded_year"=894
+
+
+
+"id"=250
+"name"="Storm Riders"
+"description"="Knowledge"
+"leader"="Drakan"
+"members"=137
+"founded_year"=854
+
+
+
+"id"=156
+"name"="Council of Elders"
+"description"="Questing"
+"leader"="Ulfrik"
+"members"=12
+"founded_year"=783
+
+
+
+"id"=117
+"name"="Mercenaries of Fortune"
+"description"="Exploration"
+"leader"="Thera"
+"members"=970
+"founded_year"=413
 
 
 
 "id"=321
-"name"="Heart of Courage"
+"name"="Mercenaries of Fortune"
+"description"="Mage Training"
+"leader"="Qelthar"
+"members"=135
+"founded_year"=408
+
+
+
+"id"=175
+"name"="Archmage Assembly"
+"description"="Crafting"
+"leader"="Daelis"
+"members"=642
+"founded_year"=7
+
+
+
+"id"=93
+"name"="Shadow Society"
+"description"="Spying"
+"leader"="Delgath"
+"members"=255
+"founded_year"=20
+
+
+
+"id"=187
+"name"="Heroes of Harmony"
+"description"="Crafting"
+"leader"="Zephyra"
+"members"=918
+"founded_year"=718
+
+
+
+"id"=29
+"name"="Defenders of Destiny"
+"description"="PvP"
+"leader"="Shaelis"
+"members"=546
+"founded_year"=121
+
+
+
+"id"=146
+"name"="Council of Elders"
+"description"="Mage Training"
+"leader"="Zyralor"
+"members"=922
+"founded_year"=820
+
+
+
+"id"=101
+"name"="The Forsaken"
+"description"="Trading"
+"leader"="Saphyra"
+"members"=141
+"founded_year"=631
+
+
+
+"id"=270
+"name"="Mercenaries of Fortune"
+"description"="Knowledge"
+"leader"="Elira"
+"members"=477
+"founded_year"=532
+
+
+
+"id"=197
+"name"="Crypt Crawlers"
+"description"="Healing"
+"leader"="Orin"
+"members"=719
+"founded_year"=604
+
+
+
+"id"=220
+"name"="Crypt Crawlers"
+"description"="PvP"
+"leader"="Lunarion"
+"members"=618
+"founded_year"=953
+
+
+
+"id"=326
+"name"="Mercenaries of Fortune"
+"description"="Exploration"
+"leader"="Selendis"
+"members"=330
+"founded_year"=30
+
+
+
+"id"=248
+"name"="The Wanderers"
+"description"="PvP"
+"leader"="Zyraziel"
+"members"=993
+"founded_year"=945
+
+
+
+"id"=358
+"name"="Wizards of the Coast"
 "description"="Questing"
-"leader"="Aethor"
-"members"=940
-"founded_year"=824
+"leader"="Gorgrim"
+"members"=18
+"founded_year"=232
+
+
+
+"id"=291
+"name"="Wisdom Weavers"
+"description"="PvP"
+"leader"="Gorgrim"
+"members"=369
+"founded_year"=503
+
+
+
+"id"=120
+"name"="The Forsaken"
+"description"="Mage Training"
+"leader"="Faelthorn"
+"members"=401
+"founded_year"=502
+
+
+
+"id"=213
+"name"="Abyss Watchers"
+"description"="Mage Training"
+"leader"="Seraphix"
+"members"=934
+"founded_year"=989
+
+
+
+"id"=127
+"name"="Dragon Slayers"
+"description"="Mage Training"
+"leader"="Shaelis"
+"members"=162
+"founded_year"=906
 
 
 
 "id"=84
-"name"="Seekers of Truth"
+"name"="Thieves of Time"
 "description"="PvP"
-"leader"="Vyktor"
-"members"=901
-"founded_year"=647
+"leader"="Sarthon"
+"members"=290
+"founded_year"=448
+
+
+
+"id"=181
+"name"="Abyss Watchers"
+"description"="Healing"
+"leader"="Loralei"
+"members"=452
+"founded_year"=334
+
+
+
+"id"=83
+"name"="Shadow Society"
+"description"="Knowledge"
+"leader"="Jadefang"
+"members"=517
+"founded_year"=645
+
+
+
+"id"=77
+"name"="The Forsaken"
+"description"="Crafting"
+"leader"="Qelthar"
+"members"=857
+"founded_year"=474
+
+
+
+"id"=22
+"name"="Defenders of Destiny"
+"description"="PvP"
+"leader"="Aeriana"
+"members"=650
+"founded_year"=977
+
+
+
+"id"=160
+"name"="Storm Riders"
+"description"="Exploration"
+"leader"="Serafelle"
+"members"=40
+"founded_year"=816
+
+
+
+"id"=82
+"name"="Heart of Courage"
+"description"="Crafting"
+"leader"="Thorgal"
+"members"=683
+"founded_year"=896
+
+
+
+"id"=277
+"name"="Wizards of the Coast"
+"description"="Knowledge"
+"leader"="Aeriana"
+"members"=484
+"founded_year"=875
 
 
 
 "id"=184
 "name"="Frostbite Clan"
 "description"="Crafting"
-"leader"="Zyralor"
-"members"=742
-"founded_year"=366
-
-
-
-"id"=199
-"name"="The Righteous"
-"description"="Crafting"
-"leader"="Laelor"
-"members"=941
-"founded_year"=547
-
-
-
-"id"=128
-"name"="Heroes of Harmony"
-"description"="Crafting"
-"leader"="Veyla"
-"members"=843
-"founded_year"=824
-
-
-
-"id"=33
-"name"="The Wanderers"
-"description"="Exploration"
-"leader"="Endora"
-"members"=678
-"founded_year"=264
-
-
-
-"id"=60
-"name"="Council of Elders"
-"description"="Spying"
-"leader"="Valthor"
-"members"=709
-"founded_year"=913
-
-
-
-"id"=156
-"name"="Circle of Druids"
-"description"="Knowledge"
-"leader"="Kyrion"
-"members"=377
-"founded_year"=732
-
-
-
-"id"=39
-"name"="Heroes of Harmony"
-"description"="PvP"
-"leader"="Shaelis"
-"members"=114
-"founded_year"=53
-
-
-
-"id"=3
-"name"="Gold Brokers"
-"description"="Healing"
-"leader"="Aralyn"
-"members"=838
-"founded_year"=680
-
-
-
-"id"=52
-"name"="Merchant Princes"
-"description"="Trading"
 "leader"="Orin"
-"members"=82
-"founded_year"=220
-
-
-
-"id"=222
-"name"="Heralds of Hope"
-"description"="Mage Training"
-"leader"="Thaelis"
-"members"=577
-"founded_year"=622
-
-
-
-"id"=268
-"name"="Council of Elders"
-"description"="Trading"
-"leader"="Elira"
-"members"=306
-"founded_year"=567
-
-
-
-"id"=372
-"name"="Starborn Seekers"
-"description"="Mage Training"
-"leader"="Kyrion"
-"members"=349
-"founded_year"=661
-
-
-
-"id"=18
-"name"="Crypt Crawlers"
-"description"="Mage Training"
-"leader"="Orik"
-"members"=279
-"founded_year"=341
-
-
-
-"id"=123
-"name"="Elixir Masters"
-"description"="Spying"
-"leader"="Vyktor"
-"members"=111
-"founded_year"=927
-
-
-
-"id"=142
-"name"="The Righteous"
-"description"="Trading"
-"leader"="Selendis"
-"members"=720
-"founded_year"=450
-
-
-
-"id"=30
-"name"="Seekers of Truth"
-"description"="Questing"
-"leader"="Serafelle"
-"members"=348
-"founded_year"=325
-
-
-
-"id"=201
-"name"="Emerald Enchanters"
-"description"="Exploration"
-"leader"="Faenar"
-"members"=721
-"founded_year"=677
-
-
-
-"id"=358
-"name"="Elemental Lords"
-"description"="Healing"
-"leader"="Thaelen"
-"members"=888
-"founded_year"=751
-
-
-
-"id"=243
-"name"="Prophets of Doom"
-"description"="Healing"
-"leader"="Thorgath"
-"members"=901
-"founded_year"=824
-
-
-
-"id"=163
-"name"="Sun Warriors"
-"description"="Questing"
-"leader"="Morwyn"
-"members"=32
-"founded_year"=789
-
-
-
-"id"=310
-"name"="Storm Riders"
-"description"="Questing"
-"leader"="Veyla"
-"members"=595
-"founded_year"=665
-
-
-
-"id"=233
-"name"="Dragon Slayers"
-"description"="Exploration"
-"leader"="Elanor"
-"members"=148
-"founded_year"=42
-
-
-
-"id"=181
-"name"="Circle of Druids"
-"description"="Crafting"
-"leader"="Valyndra"
-"members"=596
-"founded_year"=340
-
-
-
-"id"=286
-"name"="Ocean's Children"
-"description"="PvP"
-"leader"="Thaelis"
-"members"=202
-"founded_year"=610
-
-
-
-"id"=96
-"name"="Ocean's Children"
-"description"="Questing"
-"leader"="Raelthorn"
-"members"=763
-"founded_year"=983
-
-
-
-"id"=369
-"name"="Elixir Masters"
-"description"="Crafting"
-"leader"="Lythra"
-"members"=272
-"founded_year"=350
-
-
-
-"id"=23
-"name"="Mercenaries of Fortune"
-"description"="Knowledge"
-"leader"="Aerendir"
-"members"=928
-"founded_year"=288
-
-
-
-"id"=241
-"name"="Heralds of Hope"
-"description"="Healing"
-"leader"="Loralei"
-"members"=683
-"founded_year"=217
-
-
-
-"id"=38
-"name"="Nature's Whisper"
-"description"="Mage Training"
-"leader"="Tyrndar"
-"members"=863
-"founded_year"=171
-
-
-
-"id"=107
-"name"="Defenders of Destiny"
-"description"="Mage Training"
-"leader"="Isolde"
-"members"=612
-"founded_year"=519
-
-
-
-"id"=131
-"name"="The Silent Footsteps"
-"description"="Questing"
-"leader"="Thaelis"
-"members"=319
-"founded_year"=824
-
-
-
-"id"=331
-"name"="Frostbite Clan"
-"description"="Crafting"
-"leader"="Seraphix"
-"members"=156
-"founded_year"=190
-
-
-
-"id"=282
-"name"="Heavenly Healers"
-"description"="Exploration"
-"leader"="Zandalar"
-"members"=290
-"founded_year"=707
-
-
-
-"id"=178
-"name"="Dragon Slayers"
-"description"="Mage Training"
-"leader"="Aerendir"
-"members"=73
-"founded_year"=455
-
-
-
-"id"=294
-"name"="Merchant Princes"
-"description"="Crafting"
-"leader"="Oberion"
-"members"=460
-"founded_year"=839
-
-
-
-"id"=12
-"name"="Hands of Fate"
-"description"="Exploration"
-"leader"="Xyphera"
-"members"=189
-"founded_year"=906
-
-
-
-"id"=319
-"name"="Emerald Enchanters"
-"description"="PvP"
-"leader"="Saphyra"
-"members"=212
-"founded_year"=792
-
-
-
-"id"=99
-"name"="Heavenly Healers"
-"description"="Exploration"
-"leader"="Zandalar"
-"members"=164
-"founded_year"=426
-
-
-
-"id"=245
-"name"="Heavenly Healers"
-"description"="Spying"
-"leader"="Aethor"
-"members"=702
-"founded_year"=277
-
-
-
-"id"=54
-"name"="Heralds of Hope"
-"description"="PvP"
-"leader"="Serafelle"
-"members"=688
-"founded_year"=976
-
-
-
-"id"=377
-"name"="Elemental Lords"
-"description"="Exploration"
-"leader"="Azalor"
-"members"=188
-"founded_year"=46
-
-
-
-"id"=195
-"name"="Nature's Whisper"
-"description"="Crafting"
-"leader"="Serafelle"
-"members"=58
-"founded_year"=104
-
-
-
-"id"=260
-"name"="Council of Elders"
-"description"="Trading"
-"leader"="Thera"
-"members"=569
-"founded_year"=151
-
-
-
-"id"=121
-"name"="Heralds of Hope"
-"description"="PvP"
-"leader"="Raelan"
-"members"=959
-"founded_year"=500
-
-
-
-"id"=278
-"name"="Knights of Valor"
-"description"="Crafting"
-"leader"="Lyrielle"
-"members"=794
-"founded_year"=202
-
-
-
-"id"=70
-"name"="Elemental Lords"
-"description"="Healing"
-"leader"="Endora"
-"members"=931
-"founded_year"=721
-
-
-
-"id"=224
-"name"="Mind Over Matter"
-"description"="Mage Training"
-"leader"="Elira"
-"members"=870
-"founded_year"=716
-
-
-
-"id"=188
-"name"="Prophets of Doom"
-"description"="Crafting"
-"leader"="Azalor"
-"members"=293
-"founded_year"=141
-
-
-
-"id"=85
-"name"="Artisans of Alchemy"
-"description"="Questing"
-"leader"="Lyrielle"
-"members"=676
-"founded_year"=117
-
-
-
-"id"=226
-"name"="Archmage Assembly"
-"description"="Knowledge"
-"leader"="Vyktor"
-"members"=684
-"founded_year"=318
-
-
-
-"id"=97
-"name"="Emerald Enchanters"
-"description"="Questing"
-"leader"="Gwynara"
-"members"=184
-"founded_year"=145
-
-
-
-"id"=341
-"name"="Seekers of Truth"
-"description"="Healing"
-"leader"="Zyraziel"
 "members"=218
-"founded_year"=369
+"founded_year"=120
 
 
 
-"id"=314
-"name"="Crypt Crawlers"
-"description"="Questing"
-"leader"="Lyrielle"
-"members"=203
-"founded_year"=366
-
-
-
-"id"=276
-"name"="Nature's Whisper"
-"description"="PvP"
-"leader"="Valdrick"
-"members"=583
-"founded_year"=302
-
-
-
-"id"=238
-"name"="Thieves of Time"
-"description"="PvP"
-"leader"="Naelor"
-"members"=410
-"founded_year"=641
-
-
-
-"id"=9
-"name"="Sun Warriors"
-"description"="Crafting"
-"leader"="Lyrielle"
-"members"=865
-"founded_year"=453
-
-
-
-"id"=307
-"name"="Seekers of Truth"
-"description"="Healing"
-"leader"="Raelthorn"
-"members"=359
-"founded_year"=566
-
-
-
-"id"=153
-"name"="Prophets of Doom"
-"description"="Questing"
-"leader"="Raelan"
-"members"=919
-"founded_year"=340
-
-
-
-"id"=277
-"name"="Defenders of Destiny"
-"description"="Healing"
-"leader"="Morwyn"
-"members"=409
-"founded_year"=707
-
-
-
-"id"=353
-"name"="Storm Riders"
-"description"="Spying"
-"leader"="Toraell"
-"members"=342
-"founded_year"=760
-
-
-
-"id"=19
-"name"="Frostbite Clan"
-"description"="Questing"
-"leader"="Xirelle"
-"members"=417
-"founded_year"=763
-
-
-
-"id"=197
-"name"="Spirit Guardians"
-"description"="Trading"
-"leader"="Orifel"
-"members"=697
-"founded_year"=337
-
-
-
-"id"=25
-"name"="Heralds of Hope"
-"description"="PvP"
-"leader"="Lyrielle"
-"members"=697
-"founded_year"=849
-
-
-
-"id"=136
-"name"="Abyss Watchers"
-"description"="Mage Training"
-"leader"="Lyrielle"
-"members"=915
-"founded_year"=83
-
-
-
-"id"=225
-"name"="The Silent Footsteps"
-"description"="Trading"
-"leader"="Zyraziel"
-"members"=756
-"founded_year"=256
-
-
-
-"id"=105
-"name"="Dragon Slayers"
-"description"="Questing"
-"leader"="Valthor"
-"members"=192
-"founded_year"=263
-
-
-
-"id"=378
-"name"="Prophets of Doom"
-"description"="Exploration"
-"leader"="Toraell"
-"members"=239
-"founded_year"=186
-
-
-
-"id"=231
-"name"="Mercenaries of Fortune"
-"description"="Trading"
-"leader"="Thorgath"
-"members"=220
-"founded_year"=858
-
-
-
-"id"=196
-"name"="Starborn Seekers"
-"description"="PvP"
-"leader"="Qelthar"
-"members"=787
-"founded_year"=772
-
-
-
-"id"=170
+"id"=262
 "name"="Circle of Druids"
-"description"="Trading"
-"leader"="Aethor"
-"members"=31
-"founded_year"=532
+"description"="Exploration"
+"leader"="Runorin"
+"members"=278
+"founded_year"=486
 
 
 
-"id"=194
+"id"=266
 "name"="Dragon Slayers"
-"description"="Trading"
-"leader"="Thorgal"
-"members"=52
-"founded_year"=771
-
-
-
-"id"=374
-"name"="Dragon Slayers"
-"description"="PvP"
-"leader"="Naelor"
-"members"=216
-"founded_year"=452
-
-
-
-"id"=236
-"name"="Ocean's Children"
 "description"="Healing"
-"leader"="Elandria"
-"members"=215
-"founded_year"=398
-
-
-
-"id"=118
-"name"="Moonlit Mystics"
-"description"="Spying"
-"leader"="Zyraziel"
-"members"=886
-"founded_year"=926
-
-
-
-"id"=63
-"name"="Elemental Lords"
-"description"="Knowledge"
-"leader"="Grundor"
-"members"=711
-"founded_year"=295
-
-
-
-"id"=324
-"name"="Guardians of Light"
-"description"="Questing"
-"leader"="Xirelle"
-"members"=943
-"founded_year"=824
-
-
-
-"id"=215
-"name"="Starborn Seekers"
-"description"="Knowledge"
-"leader"="Sarthon"
-"members"=163
-"founded_year"=474
-
-
-
-"id"=140
-"name"="Council of Elders"
-"description"="Knowledge"
-"leader"="Ashara"
-"members"=647
-"founded_year"=227
-
-
-
-"id"=159
-"name"="Dusk to Dawn"
-"description"="Exploration"
-"leader"="Morwyn"
-"members"=531
-"founded_year"=604
-
-
-
-"id"=234
-"name"="Silver Lances"
-"description"="Healing"
-"leader"="Serafelle"
-"members"=590
-"founded_year"=243
-
-
-
-"id"=311
-"name"="Merchant Princes"
-"description"="Spying"
-"leader"="Zephyra"
-"members"=514
-"founded_year"=164
-
-
-
-"id"=110
-"name"="Wizards of the Coast"
-"description"="Questing"
-"leader"="Orifel"
-"members"=396
-"founded_year"=372
-
-
-
-"id"=75
-"name"="Spirit Guardians"
-"description"="Knowledge"
-"leader"="Morwyn"
-"members"=188
-"founded_year"=499
-
-
-
-"id"=5
-"name"="Starborn Seekers"
-"description"="PvP"
-"leader"="Vyktor"
-"members"=361
-"founded_year"=998
-
-
-
-"id"=41
-"name"="Heart of Courage"
-"description"="Questing"
-"leader"="Thaldor"
-"members"=982
-"founded_year"=725
-
-
-
-"id"=296
-"name"="Wizards of the Coast"
-"description"="Exploration"
-"leader"="Thorgrim"
-"members"=263
-"founded_year"=893
-
-
-
-"id"=373
-"name"="Dusk to Dawn"
-"description"="Exploration"
-"leader"="Sarthon"
-"members"=827
-"founded_year"=272
-
-
-
-"id"=273
-"name"="Emerald Enchanters"
-"description"="Crafting"
-"leader"="Kyrion"
-"members"=908
-"founded_year"=503
-
-
-
-"id"=250
-"name"="Ocean's Children"
-"description"="Mage Training"
-"leader"="Orin"
-"members"=360
-"founded_year"=813
-
-
-
-"id"=299
-"name"="Frostbite Clan"
-"description"="Exploration"
-"leader"="Jadefang"
-"members"=939
-"founded_year"=250
-
-
-
-"id"=44
-"name"="Mind Over Matter"
-"description"="Questing"
-"leader"="Lythra"
-"members"=497
-"founded_year"=68
-
-
-
-"id"=367
-"name"="Council of Elders"
-"description"="Questing"
-"leader"="Zaela"
-"members"=27
-"founded_year"=849
-
-
-
-"id"=173
-"name"="Nature's Whisper"
-"description"="Crafting"
-"leader"="Raelthorn"
-"members"=548
-"founded_year"=281
+"leader"="Orik"
+"members"=949
+"founded_year"=577
 
 
 
 "id"=165
-"name"="Nature's Whisper"
-"description"="Crafting"
-"leader"="Keldra"
-"members"=288
-"founded_year"=611
-
-
-
-"id"=78
-"name"="Spirit Guardians"
+"name"="Archmage Assembly"
 "description"="Knowledge"
-"leader"="Endora"
-"members"=446
-"founded_year"=259
-
-
-
-"id"=269
-"name"="Thieves of Time"
-"description"="Healing"
-"leader"="Zephyra"
-"members"=204
-"founded_year"=3
-
-
-
-"id"=322
-"name"="Mercenaries of Fortune"
-"description"="Healing"
-"leader"="Xyralis"
-"members"=453
-"founded_year"=562
-
-
-
-"id"=27
-"name"="Silver Lances"
-"description"="Healing"
-"leader"="Selendis"
-"members"=29
-"founded_year"=72
-
-
-
-"id"=180
-"name"="Thieves of Time"
-"description"="Mage Training"
-"leader"="Veylan"
-"members"=819
-"founded_year"=40
-
-
-
-"id"=145
-"name"="Heroes of Harmony"
-"description"="Spying"
-"leader"="Lythor"
-"members"=918
-"founded_year"=112
-
-
-
-"id"=366
-"name"="The Wanderers"
-"description"="Trading"
-"leader"="Xyra"
-"members"=902
-"founded_year"=665
-
-
-
-"id"=207
-"name"="Heart of Courage"
-"description"="Questing"
-"leader"="Aerendir"
-"members"=505
-"founded_year"=910
-
-
-
-"id"=104
-"name"="Crypt Crawlers"
-"description"="Exploration"
-"leader"="Gwynara"
-"members"=847
-"founded_year"=277
-
-
-
-"id"=102
-"name"="Wizards of the Coast"
-"description"="Spying"
-"leader"="Toraell"
-"members"=694
-"founded_year"=427
-
-
-
-"id"=73
-"name"="Defenders of Destiny"
-"description"="PvP"
 "leader"="Raelthorn"
-"members"=464
-"founded_year"=828
+"members"=753
+"founded_year"=544
 
 
 
-"id"=265
-"name"="Storm Riders"
-"description"="Exploration"
-"leader"="Quorlinn"
-"members"=365
-"founded_year"=779
-
-
-
-"id"=349
-"name"="Merchant Princes"
-"description"="PvP"
-"leader"="Thundara"
-"members"=404
-"founded_year"=179
-
-
-
-"id"=13
-"name"="Frostbite Clan"
-"description"="Mage Training"
-"leader"="Elidora"
-"members"=72
-"founded_year"=367
-
-
-
-"id"=166
-"name"="Moonlit Mystics"
-"description"="PvP"
-"leader"="Oromis"
-"members"=809
-"founded_year"=243
-
-
-
-"id"=315
-"name"="Storm Riders"
-"description"="Questing"
-"leader"="Tyrndar"
-"members"=748
-"founded_year"=435
-
-
-
-"id"=337
+"id"=74
 "name"="Thieves of Time"
-"description"="Trading"
-"leader"="Ulfrik"
-"members"=304
-"founded_year"=598
-
-
-
-"id"=87
-"name"="Knights of Valor"
-"description"="Spying"
-"leader"="Xyphera"
-"members"=345
-"founded_year"=492
-
-
-
-"id"=350
-"name"="Mercenaries of Fortune"
-"description"="Crafting"
-"leader"="Caelthor"
-"members"=284
-"founded_year"=869
-
-
-
-"id"=116
-"name"="Artisans of Alchemy"
-"description"="Spying"
-"leader"="Serafelle"
-"members"=170
-"founded_year"=529
-
-
-
-"id"=291
-"name"="Dragon Slayers"
 "description"="Questing"
-"leader"="Raelthorn"
-"members"=392
-"founded_year"=16
+"leader"="Raelan"
+"members"=387
+"founded_year"=192
 
 
 
-"id"=127
-"name"="Desert Nomads"
-"description"="Questing"
-"leader"="Solandria"
-"members"=24
-"founded_year"=226
-
-
-
-"id"=227
-"name"="Dragon Slayers"
-"description"="Healing"
-"leader"="Veyla"
-"members"=729
-"founded_year"=707
-
-
-
-"id"=148
-"name"="The Undying"
-"description"="Crafting"
-"leader"="Zaela"
-"members"=696
-"founded_year"=181
-
-
-
-"id"=302
-"name"="Knights of Valor"
-"description"="Spying"
+"id"=32
+"name"="Elixir Masters"
+"description"="Exploration"
 "leader"="Gilean"
-"members"=496
-"founded_year"=250
+"members"=206
+"founded_year"=594
 
 
 
-"id"=15
-"name"="Guardians of Light"
-"description"="Crafting"
-"leader"="Nymriel"
-"members"=137
-"founded_year"=318
-
-
-
-"id"=326
-"name"="Prophets of Doom"
-"description"="Questing"
-"leader"="Zandalar"
-"members"=76
-"founded_year"=874
-
-
-
-"id"=271
-"name"="Heavenly Healers"
-"description"="Trading"
-"leader"="Isolde"
-"members"=29
-"founded_year"=781
-
-
-
-"id"=248
-"name"="Heavenly Healers"
-"description"="Spying"
-"leader"="Daelis"
-"members"=775
-"founded_year"=110
-
-
-
-"id"=361
+"id"=17
 "name"="The Wanderers"
-"description"="Healing"
-"leader"="Lyrielle"
-"members"=220
-"founded_year"=966
-
-
-
-"id"=69
-"name"="Dragon Slayers"
-"description"="Crafting"
-"leader"="Veylan"
-"members"=216
-"founded_year"=888
-
-
-
-"id"=35
-"name"="Spirit Guardians"
-"description"="Knowledge"
-"leader"="Xyra"
-"members"=956
-"founded_year"=519
-
-
-
-"id"=175
-"name"="Council of Elders"
-"description"="Questing"
-"leader"="Faelthorn"
-"members"=774
-"founded_year"=736
-
-
-
-"id"=230
-"name"="Heart of Courage"
 "description"="Exploration"
-"leader"="Saphyra"
-"members"=205
-"founded_year"=511
+"leader"="Raelan"
+"members"=248
+"founded_year"=969
 
 
 
-"id"=285
-"name"="Shadow Society"
+"id"=51
+"name"="Thieves of Time"
 "description"="Questing"
-"leader"="Orifel"
-"members"=415
-"founded_year"=464
+"leader"="Drakan"
+"members"=141
+"founded_year"=90
 
 
 
-"id"=79
-"name"="Starborn Seekers"
+"id"=168
+"name"="Spirit Guardians"
 "description"="PvP"
-"leader"="Veyla"
-"members"=70
-"founded_year"=114
+"leader"="Zephyra"
+"members"=346
+"founded_year"=497
 
 
 
-"id"=259
-"name"="Ocean's Children"
-"description"="Questing"
-"leader"="Qelthar"
-"members"=127
-"founded_year"=666
-
-
-
-"id"=76
-"name"="Heroes of Harmony"
-"description"="Knowledge"
-"leader"="Thorgrim"
-"members"=539
-"founded_year"=849
-
-
-
-"id"=228
-"name"="Moonlit Mystics"
-"description"="Crafting"
-"leader"="Laelor"
-"members"=829
-"founded_year"=383
-
-
-
-"id"=80
-"name"="Abyss Watchers"
-"description"="Questing"
-"leader"="Elira"
-"members"=833
-"founded_year"=198
-
-
-
-"id"=174
-"name"="Silver Lances"
-"description"="PvP"
-"leader"="Serafelle"
-"members"=140
-"founded_year"=438
-
-
-
-"id"=46
-"name"="The Forsaken"
-"description"="Questing"
-"leader"="Lunarion"
-"members"=883
-"founded_year"=94
-
-
-
-"id"=57
-"name"="Council of Elders"
-"description"="Mage Training"
+"id"=368
+"name"="Archmage Assembly"
+"description"="Trading"
 "leader"="Thundara"
-"members"=944
-"founded_year"=934
+"members"=849
+"founded_year"=115
+
+
+
+"id"=190
+"name"="Wisdom Weavers"
+"description"="PvP"
+"leader"="Raelis"
+"members"=416
+"founded_year"=699
 
 
 
 "id"=356
-"name"="Prophets of Doom"
-"description"="Spying"
-"leader"="Thorgal"
-"members"=885
-"founded_year"=974
-
-
-
-"id"=253
 "name"="Heralds of Hope"
-"description"="Exploration"
-"leader"="Quorlinn"
-"members"=693
-"founded_year"=302
-
-
-
-"id"=219
-"name"="Abyss Watchers"
-"description"="Healing"
-"leader"="Vyktor"
-"members"=42
-"founded_year"=334
-
-
-
-"id"=263
-"name"="Heavenly Healers"
-"description"="Exploration"
-"leader"="Ulfrik"
-"members"=84
-"founded_year"=586
-
-
-
-"id"=64
-"name"="Artisans of Alchemy"
-"description"="Mage Training"
-"leader"="Zephyrix"
-"members"=166
-"founded_year"=409
-
-
-
-"id"=328
-"name"="The Righteous"
-"description"="Spying"
-"leader"="Vyktor"
-"members"=892
-"founded_year"=983
-
-
-
-"id"=126
-"name"="Desert Nomads"
-"description"="Trading"
-"leader"="Elandria"
-"members"=774
-"founded_year"=612
-
-
-
-"id"=81
-"name"="The Wanderers"
-"description"="Crafting"
-"leader"="Xyralis"
-"members"=682
-"founded_year"=688
-
-
-
-"id"=290
-"name"="Council of Elders"
-"description"="Questing"
-"leader"="Orifel"
-"members"=510
-"founded_year"=495
-
-
-
-"id"=288
-"name"="Wizards of the Coast"
 "description"="Questing"
 "leader"="Azalor"
-"members"=308
-"founded_year"=262
+"members"=428
+"founded_year"=964
 
 
 
-"id"=117
-"name"="Circle of Druids"
+"id"=100
+"name"="Ocean's Children"
+"description"="Crafting"
+"leader"="Faenar"
+"members"=221
+"founded_year"=677
+
+
+
+"id"=109
+"name"="Mercenaries of Fortune"
+"description"="Mage Training"
+"leader"="Gwynara"
+"members"=361
+"founded_year"=107
+
+
+
+"id"=124
+"name"="Moonlit Mystics"
 "description"="Exploration"
-"leader"="Serafelle"
-"members"=654
-"founded_year"=939
-
-
-
-"id"=240
-"name"="The Forsaken"
-"description"="Questing"
-"leader"="Aethor"
-"members"=931
-"founded_year"=630
-
-
-
-"id"=344
-"name"="Thieves of Time"
-"description"="Healing"
-"leader"="Naelor"
-"members"=847
-"founded_year"=597
-
-
-
-"id"=333
-"name"="Council of Elders"
-"description"="Questing"
-"leader"="Toraell"
-"members"=737
-"founded_year"=600
-
-
-
-"id"=66
-"name"="Dusk to Dawn"
-"description"="Exploration"
-"leader"="Belthorn"
-"members"=437
-"founded_year"=111
-
-
-
-"id"=11
-"name"="Spirit Guardians"
-"description"="Questing"
-"leader"="Loralei"
-"members"=740
-"founded_year"=55
-
-
-
-"id"=346
-"name"="Wisdom Weavers"
-"description"="PvP"
-"leader"="Keldra"
-"members"=660
-"founded_year"=281
+"leader"="Xyphera"
+"members"=152
+"founded_year"=845
 
 
 
 "id"=216
-"name"="Desert Nomads"
-"description"="Trading"
-"leader"="Shaelis"
-"members"=213
-"founded_year"=74
-
-
-
-"id"=93
-"name"="Heavenly Healers"
-"description"="Crafting"
-"leader"="Zyralor"
-"members"=706
-"founded_year"=73
-
-
-
-"id"=29
-"name"="Mind Over Matter"
+"name"="Heralds of Hope"
 "description"="Questing"
-"leader"="Aryndis"
-"members"=93
-"founded_year"=109
-
-
-
-"id"=151
-"name"="Emerald Enchanters"
-"description"="Exploration"
-"leader"="Zaela"
-"members"=82
-"founded_year"=534
-
-
-
-"id"=204
-"name"="Silver Lances"
-"description"="Spying"
-"leader"="Azalor"
-"members"=112
-"founded_year"=799
-
-
-
-"id"=301
-"name"="Guardians of Light"
-"description"="Spying"
-"leader"="Thorgal"
-"members"=387
-"founded_year"=457
-
-
-
-"id"=335
-"name"="The Righteous"
-"description"="Questing"
-"leader"="Zyralor"
-"members"=853
-"founded_year"=274
-
-
-
-"id"=160
-"name"="Merchant Princes"
-"description"="Crafting"
-"leader"="Grundor"
-"members"=461
-"founded_year"=925
-
-
-
-"id"=20
-"name"="Starborn Seekers"
-"description"="Crafting"
-"leader"="Belthorn"
-"members"=632
-"founded_year"=837
-
-
-
-"id"=138
-"name"="Gold Brokers"
-"description"="Mage Training"
-"leader"="Veyla"
-"members"=112
-"founded_year"=178
-
-
-
-"id"=305
-"name"="Merchant Princes"
-"description"="Trading"
-"leader"="Tyrndar"
-"members"=965
-"founded_year"=337
-
-
-
-"id"=49
-"name"="Seekers of Truth"
-"description"="Questing"
-"leader"="Zaela"
-"members"=816
-"founded_year"=775
-
-
-
-"id"=58
-"name"="Crypt Crawlers"
-"description"="Trading"
-"leader"="Elira"
-"members"=579
-"founded_year"=328
-
-
-
-"id"=111
-"name"="Mercenaries of Fortune"
-"description"="Questing"
-"leader"="Orifel"
-"members"=291
+"leader"="Saphyra"
+"members"=679
 "founded_year"=296
 
 
 
-"id"=274
-"name"="Dusk to Dawn"
-"description"="Healing"
-"leader"="Vyktor"
-"members"=401
-"founded_year"=770
-
-
-
-"id"=92
-"name"="Heart of Courage"
-"description"="Knowledge"
-"leader"="Elandria"
-"members"=856
-"founded_year"=295
-
-
-
-"id"=6
-"name"="Heroes of Harmony"
+"id"=7
+"name"="Nature's Whisper"
 "description"="Knowledge"
 "leader"="Thorgrim"
-"members"=706
-"founded_year"=157
+"members"=457
+"founded_year"=518
 
 
 
-"id"=318
-"name"="Frostbite Clan"
-"description"="Exploration"
-"leader"="Veyla"
-"members"=449
-"founded_year"=735
-
-
-
-"id"=209
-"name"="Silver Lances"
-"description"="Exploration"
-"leader"="Thera"
-"members"=424
-"founded_year"=422
-
-
-
-"id"=112
-"name"="Mind Over Matter"
-"description"="Questing"
-"leader"="Gwynara"
-"members"=535
-"founded_year"=217
-
-
-
-"id"=129
-"name"="Gold Brokers"
-"description"="Questing"
-"leader"="Ulfrik"
-"members"=912
-"founded_year"=984
-
-
-
-"id"=338
-"name"="Archmage Assembly"
-"description"="Crafting"
-"leader"="Valdrick"
-"members"=104
-"founded_year"=122
-
-
-
-"id"=342
-"name"="Storm Riders"
-"description"="Knowledge"
-"leader"="Lythor"
-"members"=275
-"founded_year"=303
-
-
-
-"id"=211
-"name"="Defenders of Destiny"
-"description"="Trading"
-"leader"="Sarthon"
-"members"=735
-"founded_year"=495
-
-
-
-"id"=212
-"name"="Frostbite Clan"
-"description"="Knowledge"
-"leader"="Lunarion"
-"members"=662
-"founded_year"=212
-
-
-
-"id"=363
-"name"="Thieves of Time"
-"description"="Trading"
-"leader"="Aralyn"
-"members"=466
-"founded_year"=687
-
-
-
-"id"=89
-"name"="Heroes of Harmony"
-"description"="Trading"
+"id"=249
+"name"="Dusk to Dawn"
+"description"="PvP"
 "leader"="Aerendir"
-"members"=777
-"founded_year"=1000
+"members"=745
+"founded_year"=98
 
 
 
-"id"=1
-"name"="The Forsaken"
-"description"="Crafting"
-"leader"="Goromir"
-"members"=907
-"founded_year"=21
-
-
-
-"id"=304
+"id"=376
 "name"="Emerald Enchanters"
-"description"="Exploration"
-"leader"="Faenar"
-"members"=197
-"founded_year"=915
+"description"="Crafting"
+"leader"="Aryndis"
+"members"=779
+"founded_year"=136
 
 
 
-"id"=185
-"name"="Heavenly Healers"
-"description"="Spying"
-"leader"="Lythra"
-"members"=668
-"founded_year"=477
-
-
-
-"id"=113
-"name"="Heart of Courage"
+"id"=103
+"name"="The Silent Footsteps"
 "description"="Knowledge"
-"leader"="Drakan"
-"members"=448
-"founded_year"=623
+"leader"="Valthor"
+"members"=422
+"founded_year"=537
 
 
 
-"id"=375
-"name"="Nature's Whisper"
-"description"="Exploration"
-"leader"="Loralei"
-"members"=591
-"founded_year"=250
+"id"=201
+"name"="Mind Over Matter"
+"description"="Trading"
+"leader"="Azalor"
+"members"=897
+"founded_year"=510
+
+
+
+"id"=279
+"name"="Mind Over Matter"
+"description"="Trading"
+"leader"="Belthorn"
+"members"=598
+"founded_year"=128
+
+
+
+"id"=199
+"name"="Seekers of Truth"
+"description"="PvP"
+"leader"="Raelthorn"
+"members"=730
+"founded_year"=789
 
 

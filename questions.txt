@@ -1,378 +1,399 @@
 
-"id"=73
-"content"="Ah, traveler! You've returned with the Elixir of Eternal Life, eh?"
-"choice_options"=343
-"emotion"=2
-
-
-
-"id"=52
-"content"="It's dangerous to go alone! Take this loot drop."
-"choice_options"=924
-"emotion"=113
-
-
-
-"id"=16
-"content"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
-"choice_options"=307
-"emotion"=955
-
-
-
-"id"=69
-"content"="OMG, you guys! This dungeon is sooo lit! #BestDungeonEver"
-"choice_options"=983
-"emotion"=583
-
-
-
-"id"=90
-"content"="You must collect the seven artifacts of power! And maybe some milk on your way back?"
-"choice_options"=938
-"emotion"=570
-
-
-
-"id"=8
-"content"="The night is dark and full of side quests."
-"choice_options"=607
-"emotion"=198
+"id"=11
+"content"="It is not the strength of the body that counts, but the strength of the spirit."
+"choice_options"=206
+"emotion"=998
 
 
 
 "id"=75
-"content"="It's not the size of the sword, it's how you swing it!"
-"choice_options"=912
-"emotion"=200
-
-
-
-"id"=55
-"content"="You shall not pass, unless you solve my riddle!"
-"choice_options"=43
-"emotion"=710
-
-
-
-"id"=95
-"content"="Come at me, bro. But only if you've read the Terms of Service."
-"choice_options"=101
-"emotion"=127
-
-
-
-"id"=3
-"content"="Ah, you've come this far, only to die at the hands of the King of Shadows! But first, how was your day?"
-"choice_options"=988
+"content"="To defeat your enemies, you must know them. Even if they are mushrooms!"
+"choice_options"=560
 "emotion"=379
 
 
 
-"id"=106
+"id"=45
+"content"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=14
+"emotion"=590
+
+
+
+"id"=58
+"content"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=978
+"emotion"=553
+
+
+
+"id"=83
 "content"="Today's forecast: Cloudy with a chance of dragon attacks."
-"choice_options"=613
-"emotion"=289
+"choice_options"=216
+"emotion"=989
+
+
+
+"id"=56
+"content"="Welcome, adventurer, to the Caverns of Eternal Sorrow. Happy hour is from 4 to 6."
+"choice_options"=726
+"emotion"=282
+
+
+
+"id"=40
+"content"="Ah, you've come this far, only to die at the hands of the King of Shadows! But first, how was your day?"
+"choice_options"=998
+"emotion"=136
+
+
+
+"id"=81
+"content"="To defeat your enemies, you must know them. Even if they are mushrooms!"
+"choice_options"=590
+"emotion"=693
 
 
 
 "id"=19
-"content"="Adventurer, your future is whatever you grind it to be."
-"choice_options"=75
-"emotion"=398
+"content"="Do not dwell in the past, do not dream of the future, concentrate the mind on the present game."
+"choice_options"=735
+"emotion"=36
 
 
 
-"id"=57
-"content"="In your quest, you must consult the Oracle of Delphi...or Dave, the guy who knows stuff."
-"choice_options"=679
-"emotion"=854
+"id"=4
+"content"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=161
+"emotion"=86
 
 
 
-"id"=34
-"content"="Hey, listen! You should really stock up on potions before the next fight."
-"choice_options"=390
-"emotion"=730
+"id"=14
+"content"="It's not the size of the sword, it's how you swing it!"
+"choice_options"=480
+"emotion"=165
 
 
 
-"id"=112
-"content"="Hey, wanna see something cool? Press Alt+F4!"
-"choice_options"=644
-"emotion"=620
+"id"=51
+"content"="Existential dread got you down? Try our new Existential Bread\u00e2\u20ac\u201dfreshly baked in-game!"
+"choice_options"=336
+"emotion"=747
 
 
 
-"id"=6
-"content"="Ah, you've come this far, only to die at the hands of the King of Shadows! But first, how was your day?"
-"choice_options"=806
-"emotion"=813
+"id"=72
+"content"="Life is suffering. Have you considered that in your quest for the Sword of Destiny?"
+"choice_options"=55
+"emotion"=734
 
 
 
-"id"=74
-"content"="Fortune favors the bold. But XP favors the grinder."
-"choice_options"=395
-"emotion"=452
+"id"=26
+"content"="Ah, sweet child of Kos, returned to the waking world, have we?"
+"choice_options"=856
+"emotion"=864
 
 
 
-"id"=13
-"content"="When it's us vs. them, always bet on us. Unless they're higher level."
-"choice_options"=871
-"emotion"=811
+"id"=105
+"content"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=490
+"emotion"=178
+
+
+
+"id"=28
+"content"="You are not prepared... for these discounts! All potions 50% off!"
+"choice_options"=822
+"emotion"=351
+
+
+
+"id"=16
+"content"="Man is the cruelest animal. Especially in PvP."
+"choice_options"=357
+"emotion"=501
+
+
+
+"id"=35
+"content"="Hail, hero! The kingdom's salvation lies in... Hey, are you even listening? Stop checking your inventory!"
+"choice_options"=45
+"emotion"=243
+
+
+
+"id"=62
+"content"="I'm not in the mood for chat, unless it's a dialogue tree."
+"choice_options"=959
+"emotion"=222
+
+
+
+"id"=49
+"content"="Behind every avatar is a player with a snack."
+"choice_options"=124
+"emotion"=871
 
 
 
 "id"=85
-"content"="Thou shalt not pass... without first enjoying a cup of Gnomebrew Coffee. Perks you right up!"
-"choice_options"=518
-"emotion"=114
+"content"="One does not simply walk into the End Zone."
+"choice_options"=66
+"emotion"=919
 
 
 
-"id"=42
-"content"="You must collect the seven artifacts of power! And maybe some milk on your way back?"
-"choice_options"=106
-"emotion"=874
+"id"=59
+"content"="The night is dark and full of side quests."
+"choice_options"=48
+"emotion"=526
 
 
 
-"id"=61
-"content"="Yo, fam! Don't forget to like and subscribe before you head to the Dark Forest!"
-"choice_options"=663
-"emotion"=633
+"id"=53
+"content"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=810
+"emotion"=542
 
 
 
-"id"=10
-"content"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
-"choice_options"=234
-"emotion"=330
+"id"=89
+"content"="Come at me, bro. But only if you've read the Terms of Service."
+"choice_options"=389
+"emotion"=101
 
 
 
-"id"=65
-"content"="In this world, it's grind or be grinded!"
-"choice_options"=686
-"emotion"=506
+"id"=27
+"content"="A horse, a horse, my lootbox for a horse!"
+"choice_options"=148
+"emotion"=570
+
+
+
+"id"=47
+"content"="Welcome to the Enchanted Forest, where the trees are 100% organic and the unicorns are gluten-free."
+"choice_options"=717
+"emotion"=945
+
+
+
+"id"=38
+"content"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=997
+"emotion"=883
+
+
+
+"id"=31
+"content"="Hey, listen! You should really stock up on potions before the next fight."
+"choice_options"=879
+"emotion"=365
 
 
 
 "id"=98
 "content"="In this world, it's grind or be grinded!"
-"choice_options"=572
-"emotion"=176
+"choice_options"=604
+"emotion"=231
 
 
 
-"id"=26
-"content"="You are not prepared... for these discounts! All potions 50% off!"
-"choice_options"=256
-"emotion"=78
+"id"=103
+"content"="Hey, wanna see something cool? Press Alt+F4!"
+"choice_options"=871
+"emotion"=789
 
 
 
-"id"=101
-"content"="Man is the cruelest animal. Especially in PvP."
-"choice_options"=613
-"emotion"=251
+"id"=7
+"content"="Enemies ahead? I can take 'em!"
+"choice_options"=389
+"emotion"=379
 
 
 
-"id"=40
-"content"="To conquer oneself is a greater victory than to conquer thousands in a battle."
-"choice_options"=835
-"emotion"=13
+"id"=57
+"content"="New to the realm? Swipe up for an exclusive tutorial!"
+"choice_options"=18
+"emotion"=948
 
 
 
-"id"=114
-"content"="You say you're here to save the realm? Didn't you also say that last week?"
-"choice_options"=290
-"emotion"=257
+"id"=50
+"content"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=969
+"emotion"=486
 
 
 
-"id"=72
-"content"="Welcome, adventurer, to the Caverns of Eternal Sorrow. Happy hour is from 4 to 6."
-"choice_options"=838
-"emotion"=901
+"id"=10
+"content"="One does not simply walk into the End Zone."
+"choice_options"=434
+"emotion"=84
+
+
+
+"id"=30
+"content"="Yo, fam! Don't forget to like and subscribe before you head to the Dark Forest!"
+"choice_options"=946
+"emotion"=173
+
+
+
+"id"=65
+"content"="Hail, hero! The kingdom's salvation lies in... Hey, are you even listening? Stop checking your inventory!"
+"choice_options"=263
+"emotion"=818
+
+
+
+"id"=96
+"content"="Our kingdom is in peril! But first, let's take a selfie."
+"choice_options"=334
+"emotion"=287
+
+
+
+"id"=34
+"content"="Y'know, in another universe, you and I are just polygons and pixels."
+"choice_options"=567
+"emotion"=590
+
+
+
+"id"=70
+"content"="You have been granted the Sword of Eternal Power! But first, would you like to take a survey?"
+"choice_options"=555
+"emotion"=199
+
+
+
+"id"=23
+"content"="Look in the mirror... that's your only competition in this game."
+"choice_options"=399
+"emotion"=132
+
+
+
+"id"=93
+"content"="In ancient times, dragons roamed these lands. Now it's mostly just influencers and food bloggers."
+"choice_options"=540
+"emotion"=258
 
 
 
 "id"=67
-"content"="The essence of combat: kill, or be killed."
-"choice_options"=87
-"emotion"=249
-
-
-
-"id"=4
-"content"="I'm not in the mood for chat, unless it's a dialogue tree."
-"choice_options"=85
-"emotion"=955
-
-
-
-"id"=68
-"content"="Seek the Old Wise Man at the mountain peak. He shall... wait, you're googling a walkthrough, aren't you?"
-"choice_options"=562
-"emotion"=565
-
-
-
-"id"=102
-"content"="Y'know, in another universe, you and I are just polygons and pixels."
-"choice_options"=92
-"emotion"=390
-
-
-
-"id"=62
-"content"="It's-a me! Are you ready to jump into the next adventure?"
-"choice_options"=385
-"emotion"=490
-
-
-
-"id"=22
-"content"="New to the realm? Swipe up for an exclusive tutorial!"
-"choice_options"=232
-"emotion"=638
-
-
-
-"id"=109
-"content"="To be or not to be, that is the quest."
-"choice_options"=912
-"emotion"=850
-
-
-
-"id"=59
-"content"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
-"choice_options"=432
-"emotion"=62
-
-
-
-"id"=49
-"content"="It's not the size of the sword, it's how you swing it!"
-"choice_options"=776
-"emotion"=104
-
-
-
-"id"=105
-"content"="Never look a gift dragon in the mouth. Actually, never look any dragon in the mouth."
-"choice_options"=173
-"emotion"=339
-
-
-
-"id"=45
-"content"="You are not prepared... for these discounts! All potions 50% off!"
-"choice_options"=362
-"emotion"=314
-
-
-
-"id"=29
-"content"="New to the realm? Swipe up for an exclusive tutorial!"
-"choice_options"=363
-"emotion"=618
-
-
-
-"id"=38
-"content"="I think you're in the wrong game, but hey, as long as you're having fun!"
-"choice_options"=852
-"emotion"=170
-
-
-
-"id"=87
-"content"="Man is the cruelest animal. Especially in PvP."
-"choice_options"=298
-"emotion"=416
+"content"="Hey, listen! You should really stock up on potions before the next fight."
+"choice_options"=269
+"emotion"=366
 
 
 
 "id"=24
-"content"="It's-a me! Are you ready to jump into the next adventure?"
-"choice_options"=67
-"emotion"=551
+"content"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=394
+"emotion"=38
 
 
 
-"id"=82
-"content"="Existential dread got you down? Try our new Existential Bread\u00e2\u20ac\u201dfreshly baked in-game!"
-"choice_options"=908
-"emotion"=365
+"id"=101
+"content"="In three words I can sum up what I've learned about life in the realm: It goes on."
+"choice_options"=797
+"emotion"=43
 
 
 
-"id"=35
-"content"="It's dangerous to go alone! Take this loot drop."
-"choice_options"=175
-"emotion"=816
+"id"=2
+"content"="The night is dark and full of side quests."
+"choice_options"=968
+"emotion"=425
 
 
 
-"id"=31
-"content"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
-"choice_options"=308
-"emotion"=294
-
-
-
-"id"=99
-"content"="Y'know, in another universe, you and I are just polygons and pixels."
-"choice_options"=507
-"emotion"=736
-
-
-
-"id"=11
-"content"="To conquer oneself is a greater victory than to conquer thousands in a battle."
-"choice_options"=678
-"emotion"=603
-
-
-
-"id"=46
-"content"="Do not dwell in the past, do not dream of the future, concentrate the mind on the present game."
-"choice_options"=37
-"emotion"=11
+"id"=79
+"content"="Enemies ahead? I can take 'em!"
+"choice_options"=609
+"emotion"=284
 
 
 
 "id"=78
-"content"="What is better? To be born good, or to overcome your evil nature through great effort?"
-"choice_options"=754
-"emotion"=934
+"content"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=213
+"emotion"=814
 
 
 
-"id"=92
-"content"="Fortune favors the bold. But XP favors the grinder."
-"choice_options"=408
-"emotion"=976
+"id"=87
+"content"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=738
+"emotion"=379
 
 
 
-"id"=115
-"content"="One does not simply walk into the End Zone."
-"choice_options"=119
-"emotion"=947
+"id"=86
+"content"="The night is dark and full of side quests."
+"choice_options"=16
+"emotion"=915
 
 
 
-"id"=81
-"content"="In this world, it's grind or be grinded!"
-"choice_options"=157
-"emotion"=410
+"id"=94
+"content"="Welcome to the Guild of Forgotten Souls! Now, what's your damage?"
+"choice_options"=420
+"emotion"=825
+
+
+
+"id"=61
+"content"="It is not the strength of the body that counts, but the strength of the spirit."
+"choice_options"=796
+"emotion"=399
+
+
+
+"id"=48
+"content"="Man is the cruelest animal. Especially in PvP."
+"choice_options"=630
+"emotion"=93
+
+
+
+"id"=8
+"content"="Welcome, welcome! Do you come often? No, really, how often?"
+"choice_options"=404
+"emotion"=183
+
+
+
+"id"=21
+"content"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=803
+"emotion"=66
+
+
+
+"id"=84
+"content"="Mastering others is strength; mastering yourself is true power."
+"choice_options"=58
+"emotion"=11
+
+
+
+"id"=90
+"content"="Ah, sweet child of Kos, returned to the waking world, have we?"
+"choice_options"=747
+"emotion"=9
+
+
+
+"id"=42
+"content"="To defeat your enemies, you must know them. Even if they are mushrooms!"
+"choice_options"=777
+"emotion"=361
 
 

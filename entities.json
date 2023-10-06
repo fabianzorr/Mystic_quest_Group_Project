@@ -73,7 +73,7 @@
                     "value_source": "first_names"
                 },
                 {
-                    "name": "firstname",
+                    "name": "last_name",
                     "datatype": "string",
                     "value_source": "last_names"
                 },
