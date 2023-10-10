@@ -132,7 +132,7 @@ CREATE TABLE `chatmessages` (
   KEY `UserID` (`UserID`),
   CONSTRAINT `chatmessages_ibfk_1` FOREIGN KEY (`ChatRoomID`) REFERENCES `chatrooms` (`ChatRoomID`),
   CONSTRAINT `chatmessages_ibfk_2` FOREIGN KEY (`UserID`) REFERENCES `characters` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -141,6 +141,7 @@ CREATE TABLE `chatmessages` (
 
 LOCK TABLES `chatmessages` WRITE;
 /*!40000 ALTER TABLE `chatmessages` DISABLE KEYS */;
+INSERT INTO `chatmessages` VALUES (1,1,1,'Hello World! :)','2023-10-10 17:31:33'),(2,1,2,'Hello Aerith nice to meet you! :)','2023-10-10 17:32:41'),(3,11,44,'Hi the new Dragon sword is so OP!','2023-10-10 17:33:50'),(4,10,1,'I think the new Mage Robe looks so sick! <3','2023-10-10 17:36:25');
 /*!40000 ALTER TABLE `chatmessages` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -160,7 +161,7 @@ CREATE TABLE `chatroommembers` (
   KEY `UserID` (`UserID`),
   CONSTRAINT `chatroommembers_ibfk_1` FOREIGN KEY (`ChatRoomID`) REFERENCES `chatrooms` (`ChatRoomID`),
   CONSTRAINT `chatroommembers_ibfk_2` FOREIGN KEY (`UserID`) REFERENCES `characters` (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -169,6 +170,7 @@ CREATE TABLE `chatroommembers` (
 
 LOCK TABLES `chatroommembers` WRITE;
 /*!40000 ALTER TABLE `chatroommembers` DISABLE KEYS */;
+INSERT INTO `chatroommembers` VALUES (1,1,2),(2,11,258),(3,1,1),(4,4,991),(5,5,5),(6,10,119),(8,4,1),(9,10,1),(10,11,44);
 /*!40000 ALTER TABLE `chatroommembers` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -187,7 +189,7 @@ CREATE TABLE `chatrooms` (
   PRIMARY KEY (`ChatRoomID`),
   KEY `CreatedByUserID` (`CreatedByUserID`),
   CONSTRAINT `chatrooms_ibfk_1` FOREIGN KEY (`CreatedByUserID`) REFERENCES `characters` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -196,7 +198,7 @@ CREATE TABLE `chatrooms` (
 
 LOCK TABLES `chatrooms` WRITE;
 /*!40000 ALTER TABLE `chatrooms` DISABLE KEYS */;
-INSERT INTO `chatrooms` VALUES (1,'Rare Items',1,'2023-10-10 15:02:02'),(4,'Questing',991,'2023-10-10 15:08:13'),(5,'TradingGroup',5,'2023-10-10 15:30:25'),(6,'CombatStrategyDiscussion',22,'2023-10-10 15:32:12');
+INSERT INTO `chatrooms` VALUES (1,'Rare Items',1,'2023-10-10 15:02:02'),(4,'Questing',991,'2023-10-10 15:08:13'),(5,'TradingGroup',5,'2023-10-10 15:30:25'),(6,'CombatStrategyDiscussion',22,'2023-10-10 15:32:12'),(10,'Best Cosmetics',119,'2023-10-10 16:56:37'),(11,'Combat Strategies',258,'2023-10-10 17:20:25');
 /*!40000 ALTER TABLE `chatrooms` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -645,4 +647,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-10-10 16:25:20
+-- Dump completed on 2023-10-10 17:47:45
