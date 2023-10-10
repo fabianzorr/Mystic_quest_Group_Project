@@ -16,6 +16,34 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Table structure for table `achievements`
+--
+
+DROP TABLE IF EXISTS `achievements`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `achievements` (
+  `AchievementID` int NOT NULL,
+  `AchievementName` varchar(100) DEFAULT NULL,
+  `Description` text,
+  `CharacterID` int DEFAULT NULL,
+  PRIMARY KEY (`AchievementID`),
+  KEY `CharacterID` (`CharacterID`),
+  CONSTRAINT `achievements_ibfk_1` FOREIGN KEY (`CharacterID`) REFERENCES `characters` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `achievements`
+--
+
+LOCK TABLES `achievements` WRITE;
+/*!40000 ALTER TABLE `achievements` DISABLE KEYS */;
+INSERT INTO `achievements` VALUES (1,'Dragon Slayer','Defeated a fearsome dragon in battle.',1),(2,'Master Wizard','Mastered the arcane arts and became a powerful wizard.',2),(3,'Hero of the Realm','Saved the kingdom from a great evil.',3),(4,'Legendary Warrior','Became a legendary warrior known throughout the land.',4),(5,'Explorer','Discovered hidden treasures in distant lands.',5),(6,'Healer Extraordinaire','Saved countless lives with your extraordinary healing abilities.',6),(7,'Ocean Voyager','Sailed the treacherous seas and lived to tell the tale.',7),(8,'Champion Archer','Became a champion archer with unparalleled accuracy.',8),(9,'Elemental Conqueror','Defeated the elemental lords and harnessed their powers.',9),(10,'Mystic Scholar','Uncovered ancient mysteries and became a mystic scholar.',10),(11,'Undead Exorcist','Banished the undead from the realm with holy magic.',11),(12,'Stealthy Rogue','Mastered the art of stealth and became a stealthy rogue.',12),(13,'Time Traveler','Ventured through time and altered the course of history.',13),(14,'Beast Tamer','Tamed and befriended the wildest of beasts.',16),(15,'Guardian of the Forest','Protected the ancient forest from harm.',19),(16,'Sorcerer Supreme','Achieved mastery over the darkest and most powerful sorcery.',22),(17,'Bardic Virtuoso','Became a virtuoso bard, enchanting audiences with your music.',25);
+/*!40000 ALTER TABLE `achievements` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `attributes`
 --
 
@@ -44,6 +72,7 @@ CREATE TABLE `attributes` (
 
 LOCK TABLES `attributes` WRITE;
 /*!40000 ALTER TABLE `attributes` DISABLE KEYS */;
+INSERT INTO `attributes` VALUES (1,23,47,13,84,91,264,309,856,330),(2,17,29,45,100,82,167,417,789,437),(3,48,12,8,112,112,423,197,222,392),(4,38,10,30,121,120,175,181,914,212),(5,8,18,21,115,115,412,341,298,377),(6,45,4,17,89,117,247,436,738,263),(7,30,26,35,85,91,150,389,725,571),(8,4,10,38,83,102,197,419,537,690),(9,19,46,25,101,109,316,366,947,232),(10,25,41,12,127,120,81,215,430,206),(11,43,11,23,120,119,326,261,504,659),(12,5,29,7,83,83,383,243,597,225),(13,8,13,43,111,89,231,245,544,698),(16,16,22,48,85,110,249,406,859,251),(19,22,5,16,128,87,183,241,663,647),(22,23,31,27,97,125,394,502,351,713),(25,20,25,38,93,90,318,444,861,382),(28,10,15,44,121,141,411,409,822,734),(31,28,19,46,94,130,432,461,328,737),(33,8,38,30,128,136,479,300,983,207),(36,49,3,27,93,115,257,433,564,566),(38,45,10,29,89,84,336,430,490,879),(39,44,6,16,130,110,90,188,442,309),(40,33,36,14,85,129,223,291,218,696),(42,38,48,11,84,128,268,472,834,373),(44,20,45,38,85,102,380,389,216,562),(47,25,16,19,85,91,396,297,819,688),(48,44,12,11,96,97,392,408,626,262),(50,10,14,30,89,83,374,270,356,246),(51,48,42,6,118,129,330,328,963,368),(52,10,9,27,84,84,442,409,264,282),(53,35,18,9,135,90,200,160,562,249),(55,13,31,27,129,91,172,285,727,792),(56,18,22,44,112,99,246,189,337,534),(58,38,11,23,125,90,468,406,747,801),(60,30,24,20,141,95,241,270,212,888),(63,9,10,18,144,136,243,332,982,356),(66,25,24,47,80,118,311,438,589,509),(69,22,14,17,117,143,136,437,319,543),(72,13,29,24,139,86,497,201,465,774),(74,46,31,2,83,129,285,253,252,608),(75,42,19,1,106,101,363,393,674,793),(78,26,7,11,85,82,77,225,841,721),(81,11,3,33,80,120,113,176,573,537),(82,35,6,22,96,115,381,439,442,384),(85,48,12,2,138,84,118,340,428,506),(87,5,23,33,94,137,311,487,702,398),(89,45,25,45,118,109,287,394,216,312),(90,2,16,4,145,97,195,196,699,204),(93,50,29,25,127,88,246,152,342,809),(95,9,33,5,127,98,237,181,780,400),(98,19,46,11,83,81,334,330,774,659),(101,34,21,36,85,132,115,320,427,801),(103,8,14,8,107,116,423,466,753,850),(106,35,8,47,89,120,274,406,737,342),(107,20,21,31,81,113,330,302,518,789),(109,42,3,22,144,133,163,157,482,566),(110,18,12,27,97,102,441,374,894,808),(113,24,4,35,80,128,94,447,567,655),(116,26,5,19,106,88,312,409,697,715),(119,11,50,33,101,113,284,418,472,570),(122,15,15,28,125,89,161,327,936,548),(123,41,3,45,99,132,415,406,273,800),(124,8,7,36,140,117,181,343,650,457),(127,16,36,29,90,117,266,370,563,747),(130,13,11,47,94,140,355,303,811,437),(131,34,10,48,86,124,98,512,932,397),(133,30,22,11,124,84,291,177,724,380),(135,47,3,1,85,84,536,194,647,337),(137,49,4,12,109,110,375,526,920,279),(138,42,45,23,120,132,399,341,732,401),(140,2,22,20,124,88,243,335,208,266),(142,25,24,10,147,130,94,478,842,382),(145,33,47,47,82,100,487,223,243,583),(148,45,4,11,94,119,438,437,426,639),(149,38,8,19,99,129,405,486,708,276),(150,1,10,50,93,124,241,405,607,378),(152,33,26,4,103,95,192,472,486,706),(154,9,2,36,102,128,284,238,831,497),(155,37,7,12,115,84,93,231,661,228),(156,46,25,27,127,100,352,186,570,610),(157,18,20,11,102,80,194,344,394,878),(158,36,7,29,144,99,444,158,200,226),(161,4,16,17,130,80,177,244,794,389),(164,28,32,47,134,116,309,396,243,462),(167,47,10,14,80,86,292,422,457,622),(170,48,5,36,96,134,211,183,590,826),(172,17,9,15,130,109,140,249,309,896),(173,29,30,4,104,108,351,359,548,625),(175,27,4,48,147,122,189,475,513,878),(176,10,24,29,108,108,181,419,242,822),(179,40,41,14,113,109,455,387,499,676),(182,50,15,3,121,100,428,219,386,518),(184,45,33,31,113,125,145,398,686,593),(187,1,47,31,97,138,493,228,595,223),(190,27,19,4,112,90,156,481,312,610),(191,9,16,33,103,80,153,482,306,267),(192,18,38,17,138,120,394,365,457,543),(193,11,23,47,113,123,232,489,815,494),(196,6,2,31,107,98,184,482,698,798),(199,40,29,46,126,112,392,221,369,241),(202,21,27,17,124,120,234,177,693,493),(204,49,35,35,103,139,446,259,836,531),(206,48,9,7,122,84,429,155,214,745),(208,24,36,35,92,98,183,423,663,518),(209,39,22,26,96,105,196,341,707,680),(211,26,31,7,142,98,100,228,699,607),(212,29,16,44,129,135,299,245,874,722),(213,22,35,8,96,135,170,420,504,467),(214,10,10,21,144,124,404,242,464,881),(215,25,34,45,81,134,207,225,421,690),(217,2,44,41,126,80,82,342,380,739),(220,34,25,48,104,137,105,150,401,264),(221,12,18,11,134,92,123,298,880,395),(224,42,33,13,116,137,262,384,825,823),(225,39,10,17,128,127,264,198,363,645),(226,15,5,30,83,105,452,342,871,472),(229,43,18,3,84,134,231,443,493,423),(232,50,26,35,120,120,137,346,838,499),(234,48,45,47,115,115,423,184,738,327),(235,8,35,7,147,120,83,497,858,238),(237,37,46,33,108,137,127,202,616,896),(238,38,47,21,122,89,182,497,303,822),(239,17,8,2,83,117,234,276,735,387),(241,48,14,12,124,109,230,274,633,713),(243,20,28,28,81,94,271,187,412,793),(246,25,21,23,92,91,438,315,864,663),(247,2,29,40,128,95,317,421,527,345),(249,48,28,21,81,84,83,208,869,327),(252,35,25,27,89,125,181,331,779,600),(255,47,9,7,135,93,142,417,885,434),(258,6,7,50,84,94,379,200,548,779),(261,44,50,37,94,84,120,446,835,340),(263,37,13,4,92,139,153,227,864,812),(264,47,9,4,101,83,325,285,273,848),(265,19,29,35,80,135,348,242,845,789),(268,33,46,33,108,106,93,198,261,600),(270,38,12,38,130,115,351,352,202,458),(272,15,41,45,141,94,436,317,288,726),(275,28,3,4,134,124,460,317,842,785),(277,30,19,2,141,95,150,209,869,895),(279,1,24,13,118,141,134,296,946,447),(281,37,17,22,141,99,84,176,824,890),(991,3,18,38,93,84,236,312,427,621);
 /*!40000 ALTER TABLE `attributes` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -83,6 +112,92 @@ LOCK TABLES `characters` WRITE;
 /*!40000 ALTER TABLE `characters` DISABLE KEYS */;
 INSERT INTO `characters` VALUES (1,'Aerith','Windrunner','Elf','Mage','Mystic Shadows','2023-10-10 14:00:00',51,10,1,1200,8500),(2,'Shaelis','Flamestrike','Human','Healer','Emerald Enchanters','2021-04-24 13:08:52',1,7,6,1246,1025),(3,'Oberion','Bloodfang','Human','Summoner','Council of Elders','2021-12-24 19:40:31',2,45,5,5337,1394),(4,'Baelor','Ironheart','Dwarf','Warrior','Iron Defenders','2023-10-10 15:00:00',52,15,2,3000,4000),(5,'Oberion','Starflame','Undead','Healer','Hands of Fate','2021-11-01 03:11:10',3,1,1,172,7256),(6,'Caelum','Stormbringer','Human','Healer','Heavenly Lights','2023-10-10 16:00:00',53,20,3,4500,7500),(7,'Lunarion','Stormstrike','Human','Archer','Artisans of Alchemy','2022-09-24 07:39:25',4,20,1,3250,5317),(8,'Daenerys','Flameborn','Elf','Summoner','Fire Keepers','2023-10-10 17:00:00',54,25,4,2000,6500),(9,'Eldor','Lightweaver','Human','Mage','Luminous Order','2023-10-10 18:00:00',55,30,1,3500,7000),(10,'Veylan','Ironsong','Naga','Warrior','Elemental Lords','2021-05-18 19:26:42',5,48,2,200,5719),(11,'Faelar','Leafwhisper','Elf','Archer','Forest Guardians','2023-10-10 19:00:00',56,35,2,5000,3000),(12,'Gael','Darkblade','Human','Rogue','Shadow Walkers','2023-10-10 20:00:00',57,40,3,6000,2000),(13,'Elidora','Bloodfang','Orc','Warrior','Frostbite Clan','2021-05-29 05:40:57',6,29,5,4555,800),(16,'Nymriel','Brightdawn','Dwarf','Healer','Ocean\'s Children','2023-07-24 01:11:52',7,1,3,735,3732),(19,'Raelan','Ironthorn','Undead','Mage','Thieves of Time','2021-10-02 20:08:14',8,19,5,2988,3706),(22,'Nymriel','Firemantle','Orc','Mage','Elemental Lords','2022-02-15 17:34:01',9,39,1,2154,6832),(25,'Laelor','Silverbow','Elf','Mage','Archmage Assembly','2021-05-11 13:22:32',10,40,3,2033,6448),(28,'Goromir','Silvermoon','Orc','Rogue','Storm Riders','2023-07-25 14:53:56',11,30,1,1244,1028),(31,'Seraphix','Thunderhoof','Undead','Archer','Dusk to Dawn','2022-02-18 04:33:58',12,31,5,5352,1513),(33,'Thera','Silvermoon','Undead','Healer','Merchant Princes','2023-05-30 03:42:50',13,16,4,484,9497),(36,'Isolde','Stormbringer','Human','Mage','Dragon Slayers','2023-05-23 22:36:20',14,34,3,3036,6813),(38,'Thaelen','Swiftblade','Human','Mage','Archmage Assembly','2022-06-13 20:48:09',15,23,3,5330,3976),(39,'Thaldor','Soulforge','Human','Archer','Heroes of Harmony','2023-08-23 08:30:59',16,11,6,1940,4237),(40,'Gilean','Grimspine','Orc','Archer','Dragon Slayers','2021-05-04 02:19:55',17,35,2,891,4718),(42,'Orifel','Silverbow','Human','Warrior','Dragon Slayers','2022-07-27 02:24:42',18,40,2,5480,1507),(44,'Tyrndar','Windstrider','Undead','Rogue','The Righteous','2021-10-29 16:29:56',19,47,6,84,6183),(47,'Solandria','Shadowheart','Orc','Healer','Guardians of Light','2023-07-05 00:42:50',20,14,6,295,3910),(48,'Loralei','Doomhammer','Naga','Healer','Storm Riders','2023-08-27 05:22:20',21,27,4,4845,8643),(50,'Zyralor','Stoneforge','Human','Rogue','Ocean\'s Children','2022-07-16 06:55:56',22,45,1,5395,9028),(51,'Vyktor','Earthward','Human','Warrior','Mind Over Matter','2023-06-17 09:45:06',23,42,4,4898,3731),(52,'Selendis','Doomhammer','Elf','Rogue','Nature\'s Whisper','2023-03-31 09:55:23',24,27,3,2499,9638),(53,'Quorlinn','Runesong','Undead','Summoner','Elixir Masters','2023-01-28 02:59:29',25,6,6,3414,9537),(55,'Keldra','Whitewolf','Elf','Healer','Sun Warriors','2023-02-20 03:05:39',26,50,2,368,4461),(56,'Keldra','Silverbow','Dwarf','Warrior','Desert Nomads','2022-09-10 18:06:34',27,31,1,276,8924),(58,'Morwyn','Thunderhoof','Human','Summoner','Elixir Masters','2022-10-17 13:34:54',28,2,5,1940,9397),(60,'Oromis','Deeproot','Naga','Healer','Storm Riders','2023-04-27 06:33:12',29,20,4,4370,8225),(63,'Loralei','Ironbane','Elf','Warrior','Ocean\'s Children','2021-07-28 08:47:43',30,43,5,5564,1691),(66,'Zyralor','Silvershadow','Orc','Mage','Desert Nomads','2021-06-04 18:30:12',31,4,6,384,8125),(69,'Elira','Sunshield','Dwarf','Healer','Moonlit Mystics','2021-04-23 19:44:32',32,42,1,5223,9148),(72,'Solandria','Wildfire','Elf','Archer','Elemental Lords','2021-05-31 03:32:40',33,45,4,5775,676),(74,'Xyphera','Bearclaw','Human','Archer','Heart of Courage','2023-05-28 05:48:00',34,1,1,2707,532),(75,'Solandria','Swiftblade','Naga','Warrior','Crypt Crawlers','2023-02-12 15:06:27',35,18,4,5475,4021),(78,'Endora','Windwhisper','Orc','Healer','Knights of Valor','2021-11-17 21:25:05',36,37,6,1641,1609),(81,'Caelthor','Darkveil','Dwarf','Archer','Ocean\'s Children','2022-10-17 21:22:14',37,32,5,5908,4396),(82,'Saphyra','Sunshield','Elf','Rogue','The Silent Footsteps','2023-09-05 23:16:55',38,47,4,1467,9039),(85,'Xyralis','Doomhammer','Undead','Archer','Ocean\'s Children','2021-05-28 02:20:00',39,38,6,4713,2160),(87,'Raelis','Glowspark','Orc','Healer','Seekers of Truth','2022-12-17 05:05:15',40,50,6,4343,9706),(89,'Ashara','Ashenveil','Orc','Summoner','Ocean\'s Children','2022-09-16 18:26:58',41,34,1,4089,4961),(90,'Aeriana','Silverbow','Human','Mage','Heroes of Harmony','2021-07-12 04:15:29',42,21,2,2614,6901),(93,'Oromis','Frostclaw','Undead','Rogue','Abyss Watchers','2022-02-15 08:41:24',43,1,2,862,6479),(95,'Elira','Wolfsong','Dwarf','Healer','Frostbite Clan','2022-08-09 20:17:21',44,44,5,4850,979),(98,'Belthorn','Dreadbane','Orc','Mage','Archmage Assembly','2023-08-20 06:14:23',45,13,4,388,297),(101,'Oromis','Soulforge','Undead','Mage','Prophets of Doom','2022-06-10 22:51:08',46,35,5,5729,6848),(103,'Lunarion','Brightdawn','Human','Warrior','Desert Nomads','2022-08-24 06:39:45',47,34,5,3357,7433),(106,'Zephyrix','Skullcrusher','Undead','Healer','Hands of Fate','2023-04-09 15:06:04',48,14,5,226,9590),(107,'Nymriel','Leafwhisper','Naga','Archer','Prophets of Doom','2022-01-13 12:13:15',49,17,4,4090,5309),(109,'Xyralis','Stonewall','Elf','Summoner','Wizards of the Coast','2022-01-21 17:02:24',50,43,5,3658,4559),(110,'Orifel','Wildfire','Naga','Summoner','Frostbite Clan','2021-09-07 20:59:55',51,15,2,2703,8848),(113,'Thorgal','Darkfall','Naga','Rogue','Merchant Princes','2021-11-28 03:07:46',52,45,3,433,7068),(116,'Belthorn','Earthshaker','Human','Mage','Storm Riders','2022-06-06 14:32:24',53,29,3,1902,4653),(119,'Laelor','Windwhisper','Orc','Warrior','The Righteous','2023-03-23 00:46:22',54,11,1,2250,4796),(122,'Jadefang','Whitewolf','Dwarf','Archer','Emerald Enchanters','2023-06-13 11:47:18',55,16,6,1637,9254),(123,'Orik','Ashmantle','Elf','Healer','Moonlit Mystics','2022-01-07 14:02:14',56,45,4,4850,2651),(124,'Raelan','Sunspire','Dwarf','Mage','Frostbite Clan','2022-09-04 13:07:21',57,29,5,5405,7089),(127,'Ashara','Shadowheart','Elf','Healer','Knights of Valor','2023-01-02 03:07:29',58,9,4,5051,826),(130,'Morwyn','Stormblade','Human','Healer','Heroes of Harmony','2021-08-25 08:56:21',59,5,2,5325,1895),(131,'Elanor','Cragjaw','Dwarf','Warrior','Artisans of Alchemy','2021-10-01 07:31:57',60,50,6,1712,8580),(133,'Gilean','Earthshaker','Elf','Rogue','Crypt Crawlers','2021-11-21 00:28:21',61,36,4,2603,5952),(135,'Shaelis','Firetalon','Undead','Summoner','Heavenly Healers','2021-10-19 20:43:37',62,26,1,4047,5868),(137,'Toraell','Wolfsong','Human','Healer','Desert Nomads','2022-12-15 10:31:23',63,23,4,5463,7919),(138,'Oromis','Ragefang','Elf','Rogue','Elixir Masters','2023-04-12 05:23:06',64,38,4,1369,7656),(140,'Elidora','Iceshard','Dwarf','Mage','Wisdom Weavers','2022-02-18 03:03:19',65,21,6,859,4193),(142,'Quorlinn','Doomhammer','Dwarf','Rogue','Circle of Druids','2022-08-03 07:37:36',66,40,3,4001,763),(145,'Solandria','Stoneforge','Human','Archer','Crypt Crawlers','2022-08-27 13:37:08',67,35,2,2287,6766),(148,'Orik','Bloodfang','Elf','Warrior','Dusk to Dawn','2022-07-04 21:12:06',68,5,1,1437,1683),(149,'Drakan','Goldenleaf','Naga','Warrior','Shadow Society','2023-04-25 16:05:11',69,19,3,735,1083),(150,'Zandalar','Cragjaw','Dwarf','Mage','Mercenaries of Fortune','2021-02-15 14:35:12',70,31,6,1042,5435),(152,'Zephyrix','Frostbane','Undead','Summoner','Guardians of Light','2023-09-01 05:55:24',13,47,3,1177,3509),(154,'Serafelle','Runesong','Orc','Mage','Hands of Fate','2023-04-18 05:59:51',50,42,3,995,7764),(155,'Aryndis','Dragonfang','Elf','Archer','Prophets of Doom','2022-09-01 23:14:40',67,18,4,2306,5927),(156,'Gilean','Windstrider','Naga','Healer','Wizards of the Coast','2021-04-22 14:17:57',47,13,3,4862,2730),(157,'Zaela','Brightdawn','Elf','Archer','Guardians of Light','2022-08-26 03:38:22',33,10,5,5608,8542),(158,'Xirelle','Fellseeker','Human','Archer','Artisans of Alchemy','2022-09-11 04:31:03',25,9,3,2800,7708),(161,'Keldra','Windstrider','Elf','Summoner','Heroes of Harmony','2022-11-11 12:31:22',25,17,4,2725,9585),(164,'Valyndra','Shadowheart','Undead','Warrior','Sun Warriors','2021-05-02 04:15:35',50,6,4,2579,2738),(167,'Elira','Thunderhoof','Elf','Summoner','Mercenaries of Fortune','2023-03-05 07:04:46',34,27,6,476,5756),(170,'Zephyra','Steelstrike','Undead','Warrior','Hands of Fate','2023-06-10 11:15:52',20,18,3,3840,4728),(172,'Raelthorn','Dawnstrike','Elf','Rogue','Elixir Masters','2023-04-17 08:50:07',69,7,3,2664,8021),(173,'Raelan','Snowfall','Orc','Warrior','The Forsaken','2023-07-17 05:18:22',3,30,3,4068,9838),(175,'Lythra','Runesong','Human','Healer','The Forsaken','2021-07-13 20:45:55',16,31,1,5310,4735),(176,'Zandalar','Silvermoon','Dwarf','Summoner','Archmage Assembly','2021-06-05 14:41:22',1,12,3,4275,1418),(179,'Elandria','Mistmantle','Elf','Healer','Shadow Society','2021-09-12 22:52:54',27,17,2,3431,4332),(182,'Valdrick','Leafwhisper','Undead','Healer','Archmage Assembly','2022-07-08 10:50:20',61,50,3,2706,9556),(184,'Faenar','Starflame','Undead','Mage','Heart of Courage','2022-09-22 12:19:13',15,47,6,2548,2563),(187,'Serafelle','Dawnstrike','Naga','Archer','Heralds of Hope','2021-12-26 04:42:21',30,36,4,48,2710),(190,'Veyla','Nightshade','Orc','Warrior','Merchant Princes','2023-08-20 06:52:45',36,39,6,1986,8423),(191,'Valyndra','Dawnstrike','Dwarf','Mage','Seekers of Truth','2021-01-14 19:34:00',17,35,6,1308,5632),(192,'Xyphera','Ironthorn','Dwarf','Warrior','Moonlit Mystics','2021-07-05 04:50:40',49,7,6,971,1200),(193,'Valdrick','Skullcrusher','Naga','Summoner','Council of Elders','2021-06-04 09:49:05',53,29,5,686,2120),(196,'Keldra','Firemantle','Elf','Archer','Sun Warriors','2023-02-13 18:10:24',45,25,5,4300,9475),(199,'Thera','Ashenveil','Undead','Mage','Circle of Druids','2021-01-15 17:01:53',69,38,5,3523,933),(202,'Caelthor','Glowspark','Elf','Warrior','Abyss Watchers','2022-10-23 12:31:42',67,15,3,4231,2460),(204,'Quorlinn','Stoneshield','Dwarf','Healer','Prophets of Doom','2021-01-21 08:41:18',58,8,4,687,8345),(206,'Thorgath','Sunshield','Undead','Warrior','Ocean\'s Children','2022-03-08 21:26:28',19,46,6,4974,6410),(208,'Jadefang','Brightdawn','Naga','Warrior','Prophets of Doom','2023-06-11 22:20:39',62,6,6,4309,6681),(209,'Loralei','Soulforge','Dwarf','Summoner','The Wanderers','2021-12-06 05:15:26',42,41,1,1114,9245),(211,'Solandria','Stormblade','Dwarf','Warrior','Prophets of Doom','2021-03-23 02:45:00',24,34,1,391,5530),(212,'Thorgath','Runesong','Undead','Archer','Hands of Fate','2022-12-17 11:44:58',63,50,4,3415,1867),(213,'Gorgrim','Ironthorn','Naga','Mage','Merchant Princes','2022-03-20 01:59:10',33,47,5,1356,5701),(214,'Veylan','Ironbane','Human','Healer','Abyss Watchers','2021-11-08 01:51:55',45,35,2,1033,1506),(215,'Xyphera','Moonfire','Naga','Healer','The Undying','2023-05-21 01:39:20',55,35,4,1421,7321),(217,'Quorlinn','Silverbow','Elf','Archer','The Undying','2021-02-16 03:35:45',69,16,1,5699,5527),(220,'Oberion','Skyshard','Orc','Archer','Elemental Lords','2023-01-05 08:22:26',42,25,5,5485,9129),(221,'Valdrick','Bearclaw','Naga','Mage','The Wanderers','2022-08-28 19:26:39',1,28,4,4930,3693),(224,'Thorgal','Whitewolf','Human','Summoner','Spirit Guardians','2022-03-06 23:28:28',19,15,3,2292,8020),(225,'Raelis','Iceshard','Undead','Summoner','Seekers of Truth','2021-09-13 18:03:56',22,41,5,5182,9127),(226,'Zephyra','Silvermoon','Undead','Warrior','Starborn Seekers','2021-01-31 13:35:22',52,8,4,5834,1232),(229,'Ulfrik','Oakheart','Undead','Rogue','Crypt Crawlers','2023-02-24 23:18:49',52,15,4,4196,1270),(232,'Aethor','Soulforge','Dwarf','Summoner','Mercenaries of Fortune','2023-06-18 08:55:27',34,1,2,3222,3043),(234,'Zandalar','Bearclaw','Orc','Rogue','Dusk to Dawn','2022-09-27 14:54:11',15,12,4,5462,6386),(235,'Xyra','Stonewall','Orc','Summoner','Moonlit Mystics','2021-06-13 22:29:37',41,6,5,2773,3951),(237,'Aeriana','Earthshaker','Human','Archer','Heroes of Harmony','2021-09-29 09:56:53',19,41,2,3534,7599),(238,'Zephyrix','Moonfire','Naga','Archer','Dragon Slayers','2023-08-16 08:24:31',40,37,5,192,8812),(239,'Aeriana','Silvershadow','Elf','Rogue','The Forsaken','2021-10-30 03:36:10',6,12,2,1855,9026),(241,'Qelthar','Starflame','Naga','Warrior','Elemental Lords','2021-04-06 06:15:18',49,47,2,3511,2180),(243,'Lunarion','Mistmantle','Elf','Warrior','Mind Over Matter','2022-04-28 03:51:05',14,50,1,2009,199),(246,'Caelthor','Deeproot','Dwarf','Mage','The Undying','2023-08-21 03:38:53',66,10,3,571,4165),(247,'Belthorn','Frostbane','Human','Rogue','Wisdom Weavers','2021-08-25 17:14:16',5,47,2,4780,7339),(249,'Valthor','Snowfall','Elf','Summoner','The Silent Footsteps','2023-05-11 11:29:06',39,7,5,1675,1943),(252,'Lythra','Deeproot','Undead','Archer','The Silent Footsteps','2021-04-02 14:17:49',37,44,1,805,884),(255,'Isolde','Windwhisper','Dwarf','Archer','The Silent Footsteps','2022-10-21 07:52:09',68,48,3,235,9310),(258,'Saphyra','Ironsong','Dwarf','Summoner','Heart of Courage','2022-08-16 06:41:26',17,8,3,3222,8919),(261,'Xaradra','Shadowheart','Elf','Warrior','Gold Brokers','2021-05-22 15:02:40',20,46,5,5093,5678),(263,'Elidora','Darkfall','Elf','Summoner','Storm Riders','2022-08-22 11:49:16',50,5,6,1757,7609),(264,'Ulfrik','Sunshield','Elf','Healer','Starborn Seekers','2022-03-17 05:07:38',48,38,1,5555,3460),(265,'Xirelle','Dawnstrike','Dwarf','Mage','Seekers of Truth','2023-01-03 21:57:44',22,25,5,5719,7272),(268,'Drakan','Thundersong','Elf','Archer','Prophets of Doom','2022-09-24 22:06:54',34,8,2,4661,7023),(270,'Elidora','Seaspray','Dwarf','Archer','Desert Nomads','2023-02-21 00:48:54',34,14,2,1087,7993),(272,'Lythra','Earthward','Dwarf','Mage','Storm Riders','2023-04-04 04:31:38',69,47,5,2717,8662),(275,'Daelis','Frostclaw','Undead','Archer','Circle of Druids','2022-04-17 04:46:03',33,42,5,5834,2630),(277,'Aeriana','Stoneshield','Orc','Mage','The Wanderers','2022-05-08 19:18:37',27,19,3,2388,2012),(279,'Veyla','Ironsong','Orc','Summoner','Elemental Lords','2021-05-08 22:47:34',35,20,6,4872,4563),(281,'Thaelis','Glowspark','Elf','Archer','Hands of Fate','2022-01-08 19:17:05',23,41,2,5074,8590),(991,'Brutus','Brutalus','Brutalus','Warrior','NPCG','2023-01-20 23:00:00',11,43,3,4549,2139);
 /*!40000 ALTER TABLE `characters` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `chatmessages`
+--
+
+DROP TABLE IF EXISTS `chatmessages`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `chatmessages` (
+  `MessageID` int NOT NULL AUTO_INCREMENT,
+  `ChatRoomID` int NOT NULL,
+  `UserID` int NOT NULL,
+  `MessageContent` text NOT NULL,
+  `Timestamp` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`MessageID`),
+  KEY `ChatRoomID` (`ChatRoomID`),
+  KEY `UserID` (`UserID`),
+  CONSTRAINT `chatmessages_ibfk_1` FOREIGN KEY (`ChatRoomID`) REFERENCES `chatrooms` (`ChatRoomID`),
+  CONSTRAINT `chatmessages_ibfk_2` FOREIGN KEY (`UserID`) REFERENCES `characters` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `chatmessages`
+--
+
+LOCK TABLES `chatmessages` WRITE;
+/*!40000 ALTER TABLE `chatmessages` DISABLE KEYS */;
+/*!40000 ALTER TABLE `chatmessages` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `chatroommembers`
+--
+
+DROP TABLE IF EXISTS `chatroommembers`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `chatroommembers` (
+  `ChatRoomMemberID` int NOT NULL AUTO_INCREMENT,
+  `ChatRoomID` int NOT NULL,
+  `UserID` int NOT NULL,
+  PRIMARY KEY (`ChatRoomMemberID`),
+  KEY `ChatRoomID` (`ChatRoomID`),
+  KEY `UserID` (`UserID`),
+  CONSTRAINT `chatroommembers_ibfk_1` FOREIGN KEY (`ChatRoomID`) REFERENCES `chatrooms` (`ChatRoomID`),
+  CONSTRAINT `chatroommembers_ibfk_2` FOREIGN KEY (`UserID`) REFERENCES `characters` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `chatroommembers`
+--
+
+LOCK TABLES `chatroommembers` WRITE;
+/*!40000 ALTER TABLE `chatroommembers` DISABLE KEYS */;
+/*!40000 ALTER TABLE `chatroommembers` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `chatrooms`
+--
+
+DROP TABLE IF EXISTS `chatrooms`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `chatrooms` (
+  `ChatRoomID` int NOT NULL AUTO_INCREMENT,
+  `ChatRoomName` varchar(100) NOT NULL,
+  `CreatedByUserID` int NOT NULL,
+  `CreatedAt` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`ChatRoomID`),
+  KEY `CreatedByUserID` (`CreatedByUserID`),
+  CONSTRAINT `chatrooms_ibfk_1` FOREIGN KEY (`CreatedByUserID`) REFERENCES `characters` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `chatrooms`
+--
+
+LOCK TABLES `chatrooms` WRITE;
+/*!40000 ALTER TABLE `chatrooms` DISABLE KEYS */;
+INSERT INTO `chatrooms` VALUES (1,'Rare Items',1,'2023-10-10 15:02:02'),(4,'Questing',991,'2023-10-10 15:08:13'),(5,'TradingGroup',5,'2023-10-10 15:30:25'),(6,'CombatStrategyDiscussion',22,'2023-10-10 15:32:12');
+/*!40000 ALTER TABLE `chatrooms` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -530,4 +645,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-10-10 13:22:54
+-- Dump completed on 2023-10-10 16:25:20
