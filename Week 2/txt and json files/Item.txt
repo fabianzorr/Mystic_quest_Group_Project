@@ -1,0 +1,564 @@
+
+"id"=171
+"item_name"="Cloak of Elvenkind"
+"item_type"="Sword"
+
+
+
+"id"=3
+"item_name"="Scroll of Forgotten Knowledge"
+"item_type"="Sword"
+
+
+
+"id"=53
+"item_name"="Sunfire Cape"
+"item_type"="Dagger"
+
+
+
+"id"=115
+"item_name"="Enchanted Waterskin"
+"item_type"="Sword"
+
+
+
+"id"=147
+"item_name"="Titanium Gauntlet"
+"item_type"="Bow"
+
+
+
+"id"=125
+"item_name"="Crystal of the Ancients"
+"item_type"="Bow"
+
+
+
+"id"=90
+"item_name"="Spectral Chainmail"
+"item_type"="Ring"
+
+
+
+"id"=181
+"item_name"="Greaves of the Vanguard"
+"item_type"="Ring"
+
+
+
+"id"=80
+"item_name"="Quicksilver Bullets"
+"item_type"="Amulet"
+
+
+
+"id"=36
+"item_name"="Rune-etched Crossbow"
+"item_type"="Potion"
+
+
+
+"id"=113
+"item_name"="Amulet of the Fallen Queen"
+"item_type"="Potion"
+
+
+
+"id"=75
+"item_name"="Runic Vestments"
+"item_type"="Potion"
+
+
+
+"id"=64
+"item_name"="Mystic Lightshield"
+"item_type"="Amulet"
+
+
+
+"id"=149
+"item_name"="Scepter of the Forsaken"
+"item_type"="Potion"
+
+
+
+"id"=2
+"item_name"="Ring of Arcane Mastery"
+"item_type"="Shield"
+
+
+
+"id"=108
+"item_name"="Gloves of the Sun God"
+"item_type"="Bow"
+
+
+
+"id"=174
+"item_name"="Amulet of the Fallen Queen"
+"item_type"="Bow"
+
+
+
+"id"=83
+"item_name"="Guardian's Shield"
+"item_type"="Staff"
+
+
+
+"id"=114
+"item_name"="Shadowflame Dagger"
+"item_type"="Sword"
+
+
+
+"id"=15
+"item_name"="Earthshaker Hammer"
+"item_type"="Potion"
+
+
+
+"id"=62
+"item_name"="Crossbow of Fiery Vengeance"
+"item_type"="Bow"
+
+
+
+"id"=33
+"item_name"="Chains of the Abyss"
+"item_type"="Shield"
+
+
+
+"id"=85
+"item_name"="Ring of Arcane Mastery"
+"item_type"="Amulet"
+
+
+
+"id"=157
+"item_name"="Quicksilver Bullets"
+"item_type"="Dagger"
+
+
+
+"id"=143
+"item_name"="Cloak of Elvenkind"
+"item_type"="Staff"
+
+
+
+"id"=50
+"item_name"="Bracers of the Hunter"
+"item_type"="Sword"
+
+
+
+"id"=165
+"item_name"="Tome of the Elders"
+"item_type"="Amulet"
+
+
+
+"id"=182
+"item_name"="Harvest Moon Scepter"
+"item_type"="Dagger"
+
+
+
+"id"=10
+"item_name"="Scroll of Forgotten Knowledge"
+"item_type"="Potion"
+
+
+
+"id"=23
+"item_name"="Cloak of Elvenkind"
+"item_type"="Shield"
+
+
+
+"id"=93
+"item_name"="Rune-etched Crossbow"
+"item_type"="Shield"
+
+
+
+"id"=27
+"item_name"="Champion's Greatsword"
+"item_type"="Staff"
+
+
+
+"id"=51
+"item_name"="Helm of the Silver Knight"
+"item_type"="Amulet"
+
+
+
+"id"=153
+"item_name"="Ring of the Moon"
+"item_type"="Amulet"
+
+
+
+"id"=152
+"item_name"="Girdle of Strength"
+"item_type"="Amulet"
+
+
+
+"id"=126
+"item_name"="Staff of Eldritch Power"
+"item_type"="Staff"
+
+
+
+"id"=39
+"item_name"="Ring of Arcane Mastery"
+"item_type"="Shield"
+
+
+
+"id"=99
+"item_name"="Blood-soaked Bracers"
+"item_type"="Potion"
+
+
+
+"id"=136
+"item_name"="Gauntlets of the Titan"
+"item_type"="Amulet"
+
+
+
+"id"=146
+"item_name"="Staff of the Archmage"
+"item_type"="Shield"
+
+
+
+"id"=65
+"item_name"="Flask of Infinite Courage"
+"item_type"="Bow"
+
+
+
+"id"=78
+"item_name"="Windfury Longsword"
+"item_type"="Staff"
+
+
+
+"id"=104
+"item_name"="Robe of the Sage"
+"item_type"="Sword"
+
+
+
+"id"=5
+"item_name"="Plaguebringer Scythe"
+"item_type"="Dagger"
+
+
+
+"id"=32
+"item_name"="Scepter of the Forsaken"
+"item_type"="Shield"
+
+
+
+"id"=73
+"item_name"="Robes of the Archmage"
+"item_type"="Amulet"
+
+
+
+"id"=178
+"item_name"="Gauntlets of the Titan"
+"item_type"="Sword"
+
+
+
+"id"=46
+"item_name"="Heartstone Amulet"
+"item_type"="Amulet"
+
+
+
+"id"=137
+"item_name"="Sacred Feather Talisman"
+"item_type"="Amulet"
+
+
+
+"id"=105
+"item_name"="Pauldrons of the Bear"
+"item_type"="Staff"
+
+
+
+"id"=28
+"item_name"="Harvest Moon Scepter"
+"item_type"="Staff"
+
+
+
+"id"=169
+"item_name"="Bracelet of Divine Fates"
+"item_type"="Dagger"
+
+
+
+"id"=96
+"item_name"="Crown of the Lost King"
+"item_type"="Shield"
+
+
+
+"id"=166
+"item_name"="Amulet of the Fallen King"
+"item_type"="Amulet"
+
+
+
+"id"=92
+"item_name"="Potion of Dire Strength"
+"item_type"="Ring"
+
+
+
+"id"=13
+"item_name"="Armor of the Sea Spirit"
+"item_type"="Bow"
+
+
+
+"id"=140
+"item_name"="Flask of Infinite Courage"
+"item_type"="Potion"
+
+
+
+"id"=101
+"item_name"="Spectral Chainmail"
+"item_type"="Shield"
+
+
+
+"id"=177
+"item_name"="Ring of the Fallen"
+"item_type"="Dagger"
+
+
+
+"id"=19
+"item_name"="Quiver of the Wind"
+"item_type"="Sword"
+
+
+
+"id"=155
+"item_name"="Crown of the Lost King"
+"item_type"="Potion"
+
+
+
+"id"=133
+"item_name"="Quicksilver Bullets"
+"item_type"="Staff"
+
+
+
+"id"=26
+"item_name"="Lunar Tear Bracelet"
+"item_type"="Amulet"
+
+
+
+"id"=8
+"item_name"="Gloves of the Sun God"
+"item_type"="Shield"
+
+
+
+"id"=168
+"item_name"="Amulet of the Fallen"
+"item_type"="Potion"
+
+
+
+"id"=59
+"item_name"="Shadowflame Dagger"
+"item_type"="Bow"
+
+
+
+"id"=40
+"item_name"="Amulet of the Fallen"
+"item_type"="Amulet"
+
+
+
+"id"=49
+"item_name"="Belt of the Wyrm"
+"item_type"="Staff"
+
+
+
+"id"=56
+"item_name"="Ring of the Eternal Flame"
+"item_type"="Bow"
+
+
+
+"id"=82
+"item_name"="Scroll of the Phoenix"
+"item_type"="Ring"
+
+
+
+"id"=118
+"item_name"="Boots of Celestial Steps"
+"item_type"="Sword"
+
+
+
+"id"=89
+"item_name"="Ring of the Moon"
+"item_type"="Potion"
+
+
+
+"id"=71
+"item_name"="Cloak of Elvenkind"
+"item_type"="Ring"
+
+
+
+"id"=86
+"item_name"="Warrior's Battleaxe"
+"item_type"="Ring"
+
+
+
+"id"=31
+"item_name"="Potion of Mana Regeneration"
+"item_type"="Potion"
+
+
+
+"id"=160
+"item_name"="Staff of the Archmage"
+"item_type"="Amulet"
+
+
+
+"id"=130
+"item_name"="Scroll of Forgotten Knowledge"
+"item_type"="Bow"
+
+
+
+"id"=123
+"item_name"="Crossbow of Fiery Vengeance"
+"item_type"="Ring"
+
+
+
+"id"=184
+"item_name"="Amulet of the Wind Whisperer"
+"item_type"="Sword"
+
+
+
+"id"=163
+"item_name"="Belt of the Wyrm"
+"item_type"="Amulet"
+
+
+
+"id"=180
+"item_name"="Warhammer of the Earthshaker"
+"item_type"="Ring"
+
+
+
+"id"=63
+"item_name"="Scroll of the Phoenix"
+"item_type"="Potion"
+
+
+
+"id"=111
+"item_name"="Golden Chalice of Eternity"
+"item_type"="Ring"
+
+
+
+"id"=176
+"item_name"="Stoneforged Mace"
+"item_type"="Bow"
+
+
+
+"id"=68
+"item_name"="Sunfire Cape"
+"item_type"="Staff"
+
+
+
+"id"=18
+"item_name"="Tome of Elemental Secrets"
+"item_type"="Sword"
+
+
+
+"id"=20
+"item_name"="Sword of the Paladin"
+"item_type"="Staff"
+
+
+
+"id"=48
+"item_name"="Mystic Lightshield"
+"item_type"="Ring"
+
+
+
+"id"=57
+"item_name"="Axe of the Moon Chieftain"
+"item_type"="Amulet"
+
+
+
+"id"=67
+"item_name"="Crystal of the Ancients"
+"item_type"="Shield"
+
+
+
+"id"=127
+"item_name"="Plaguebringer Scythe"
+"item_type"="Potion"
+
+
+
+"id"=43
+"item_name"="Bracers of the Hunter"
+"item_type"="Amulet"
+
+
+
+"id"=151
+"item_name"="Ring of the Fallen"
+"item_type"="Staff"
+
+
+
+"id"=121
+"item_name"="Axe of the Moon Chieftain"
+"item_type"="Staff"
+
+
